@@ -1,107 +1,42 @@
-/* Import Google Fonts and Font Awesome */
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700;800&family=M+PLUS+Rounded+1c:wght@300;400;500;700;800&display=swap');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css');
-
 :root {
-  /* Primary Colors for IMS - Legal */
-  --ims-color-black: #000000;
-  --ims-color-white: #ffffff;
+  --ims-color-black: #111111; /* Slightly lighter than pure black */
+  --ims-color-white: #f9f9f9;
+  --ims-color-gray-light: #e0e0e0;
+  --ims-color-gray-medium: #888888;
+  --ims-color-gray-dark: #444444;
 
-  /* Additional Palette for Light Mode */
-  --ims-color-gray-light: #f7f7f7;
-  --ims-color-gray-medium: #cccccc;
-  --ims-color-gray-dark: #333333;
+  --ims-background-light: #222222; /* Darker gray for dark mode backgrounds */
+  --ims-background-dark: #111111;
+  --ims-border-light: #555555;
 
-  /* Typography */
-  --ims-font-primary: 'Heebo', sans-serif;
-  --ims-font-secondary: 'M PLUS Rounded 1c', sans-serif;
-
-  /* Title Sizes */
-  --ims-title-large: 3rem;
-  --ims-title-medium: 2rem;
-  --ims-title-small: 1.5rem;
-
-  /* Text Size */
-  --ims-text-size: 1rem;
-
-  /* Backgrounds and Borders */
-  --ims-background-light: var(--ims-color-white);
-  --ims-background-dark: var(--ims-color-gray-light);
-  --ims-border-light: var(--ims-color-gray-medium);
-
-  /* Infima Overrides */
-  --ifm-color-primary: var(--ims-color-black);
-  --ifm-color-primary-dark: var(--ims-color-gray-dark);
-  --ifm-color-primary-light: var(--ims-color-gray-light);
-  --ifm-color-primary-lighter: var(--ims-background-dark);
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ims-text-light: #e0e0e0;
 }
 
-[data-theme='dark'] {
-  /* Dark Mode Colors */
-  --ims-background-light: var(--ims-color-gray-dark);
-  --ims-background-dark: var(--ims-color-black);
-  --ims-border-light: var(--ims-color-gray-medium);
-
-  /* Infima Overrides for Dark Mode */
-  --ifm-color-primary: var(--ims-color-white);
-  --ifm-color-primary-dark: var(--ims-color-gray-medium);
-  --ifm-color-primary-light: var(--ims-color-gray-dark);
-  --ifm-color-primary-lighter: var(--ims-color-gray-light);
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-/* Global Styles */
 body {
   font-family: var(--ims-font-secondary);
   color: var(--ims-color-black);
   background-color: var(--ims-background-light);
 }
 
-/* Titles */
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--ims-font-primary);
-  color: var(--ifm-color-primary);
-  margin-bottom: 1rem;
-}
-
-h1 {
-  font-size: var(--ims-title-large);
-}
-
-h2 {
-  font-size: var(--ims-title-medium);
-}
-
-h3 {
-  font-size: var(--ims-title-small);
-}
-
-/* Paragraphs */
-p {
-  font-size: var(--ims-text-size);
-  color: var(--ifm-color-primary-dark);
-}
-
-/* Borders and Backgrounds 
-.container {
-  background-color: var(--ims-background-dark);
-  border: 1px solid var(--ims-border-light);
-  padding: 1rem;
-  border-radius: 8px;
-}
-
-*/
-
-/* Dark Mode Overrides */
 [data-theme='dark'] body {
-  color: var(--ims-color-white);
+  color: var(--ims-text-light);
   background-color: var(--ims-background-dark);
 }
 
-[data-theme='dark'] p {
+button {
+  background-color: var(--ims-color-gray-dark); /* Darken button in dark mode */
   color: var(--ims-color-white);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+footer {
+  background-color: var(--ims-color-black); /* Darker footer */
+  color: var(--ims-color-gray-light); /* Lighten footer text */
+}
+
+footer a {
+  color: var(--ims-text-light); /* Increase contrast for footer links */
 }
 
 [data-theme='dark'] .container {
