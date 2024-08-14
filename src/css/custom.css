@@ -1,45 +1,30 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
 :root {
-  --ims-color-black: #111111; /* Slightly lighter than pure black */
-  --ims-color-white: #f9f9f9;
-  --ims-color-gray-light: #e0e0e0;
-  --ims-color-gray-medium: #888888;
-  --ims-color-gray-dark: #444444;
-
-  --ims-background-light: #222222; /* Darker gray for dark mode backgrounds */
-  --ims-background-dark: #111111;
-  --ims-border-light: #555555;
-
-  --ims-text-light: #e0e0e0;
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-body {
-  font-family: var(--ims-font-secondary);
-  color: var(--ims-color-black);
-  background-color: var(--ims-background-light);
-}
-
-[data-theme='dark'] body {
-  color: var(--ims-text-light);
-  background-color: var(--ims-background-dark);
-}
-
-button {
-  background-color: var(--ims-color-gray-dark); /* Darken button in dark mode */
-  color: var(--ims-color-white);
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-}
-
-footer {
-  background-color: var(--ims-color-black); /* Darker footer */
-  color: var(--ims-color-gray-light); /* Lighten footer text */
-}
-
-footer a {
-  color: var(--ims-text-light); /* Increase contrast for footer links */
-}
-
-[data-theme='dark'] .container {
-  background-color: var(--ims-background-dark);
-  border-color: var(--ims-border-light);
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
