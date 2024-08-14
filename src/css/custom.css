@@ -84,13 +84,15 @@ p {
   color: var(--ifm-color-primary-dark);
 }
 
-/* Borders and Backgrounds */
+/* Borders and Backgrounds 
 .container {
   background-color: var(--ims-background-dark);
   border: 1px solid var(--ims-border-light);
   padding: 1rem;
   border-radius: 8px;
 }
+
+*/
 
 /* Dark Mode Overrides */
 [data-theme='dark'] body {
