@@ -1,8 +1,7 @@
 # IMS - Legal
-At IMS - Network, This repository contains the legal documents that govern the use of our services, products, websites, cloud & comunity.
+This repository houses the legal documents that govern the use of our services, products, websites, cloud solutions, and community.
 
-We know that legal documents can be difficult to read, so we've tried to make them as clear as possible.
-So that you can understand what you're agreeing to when you use our services.
+We understand that legal documents can often be challenging to read, so we've made every effort to present them as clearly as possible. Our goal is to help you easily understand the terms you're agreeing to when using our services.
 
 ## Tehnical Information
 
