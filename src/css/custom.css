@@ -47,3 +47,58 @@
   --ifm-color-primary-lighter: var(--ims-color-gray-light);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Global Styles */
+body {
+  font-family: var(--ims-font-secondary);
+  color: var(--ims-color-black);
+  background-color: var(--ims-background-light);
+}
+
+/* Titles */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ims-font-primary);
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: var(--ims-title-large);
+}
+
+h2 {
+  font-size: var(--ims-title-medium);
+}
+
+h3 {
+  font-size: var(--ims-title-small);
+}
+
+/* Paragraphs */
+p {
+  font-size: var(--ims-text-size);
+  color: var(--ifm-color-primary-dark);
+}
+
+/* Borders and Backgrounds */
+.container {
+  background-color: var(--ims-background-dark);
+  border: 1px solid var(--ims-border-light);
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+/* Dark Mode Overrides */
+[data-theme='dark'] body {
+  color: var(--ims-color-white);
+  background-color: var(--ims-background-dark);
+}
+
+[data-theme='dark'] p {
+  color: var(--ims-color-white);
+}
+
+[data-theme='dark'] .container {
+  background-color: var(--ims-background-dark);
+  border-color: var(--ims-border-light);
+}
