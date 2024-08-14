@@ -74,9 +74,27 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'privacySidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'פרטיות',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'securitySidebar',
+          position: 'left',
+          label: 'אבטחה',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tosSidebar',
+          position: 'left',
+          label: 'תנאים והגבלות',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'cloudSidebar',
+          position: 'left',
+          label: 'הענן שלנו',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
