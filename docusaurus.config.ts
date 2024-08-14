@@ -29,6 +29,21 @@ const config: Config = {
     locales: ['he', 'en'],
   },
 
+  scripts: [
+    // Adding Formbricks Surveys script
+    {
+      src: 'https://forms.ims-network.net/api/packages/website',
+      async: true,
+      onload: `!function(){
+        var apiHost = "https://forms.ims-network.net";
+        var environmentId = "clzu4mqmi000ijh81k2lxn9j1";
+        setTimeout(function(){
+          window.formbricks.init({ environmentId: environmentId, apiHost: apiHost });
+        }, 500);
+      }();`,
+    },
+  ],
+
   presets: [
     [
       'classic',
