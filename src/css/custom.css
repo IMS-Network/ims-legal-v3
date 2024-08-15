@@ -59,5 +59,6 @@ h3 {
 
 /* Paragraphs */
 p {
+  font-family: var(--ims-font-secondary);
   font-size: var(--ims-text-size);
 }
