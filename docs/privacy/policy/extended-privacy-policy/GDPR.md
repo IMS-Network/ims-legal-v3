@@ -2,9 +2,6 @@
 sidebar_position: 1
 title: האיחוד האירופי (GDPR)
 ---
-Certainly! Here is the revised version with proper titles:
-
----
 
 # מדיניות פרטיות מורחבת – האיחוד האירופי (GDPR)  
 
