@@ -104,6 +104,11 @@ const config: Config = {
           html: '<i class="fas fa-users"></i> קהילה',
         },
         {
+          href: 'https://ims-network.org/contact',
+          html: '<i class="fas fa-envelope"></i> צור קשר',
+          position: 'left',
+        },
+        {
           href: 'https://ims-network.org',
           html: '<i class="fas fa-info-circle"></i> אודות החברה',
           position: 'left',
@@ -114,15 +119,13 @@ const config: Config = {
         },
         {
           href: 'https://cloud.ims-network.net',
-          label: 'הענן שלנו',
+          html: '<i class="fas fa-server"></i> פלטפורמת ענן',
           position: 'right',
         },
         {
           href: 'https://גיימינג.ישראל',
-          html: '<i class="fas fa-gamepad"></i>',
+          html: '<i class="fas fa-gamepad"></i> איגוד הגיימינג הישראלי', 
           position: 'right',
-          className: 'navbar-gaming-link',
-          'aria-label': 'Israeli Gaming Association',
         },
       ],
     },
