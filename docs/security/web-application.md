@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: מדיניות אבטחת ליישומי רשת
+title: יישומי רשת
 ---
 
 
