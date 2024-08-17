@@ -105,7 +105,7 @@ const config: Config = {
         },
         {
           href: 'https://ims-network.org',
-          label: 'אודות החברה',
+          html: '<i class="fas fa-info-circle"></i> אודות החברה',
           position: 'left',
         },
         {
