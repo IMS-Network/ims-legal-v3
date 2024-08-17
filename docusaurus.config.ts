@@ -77,13 +77,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'privacySidebar',
           position: 'left',
-          label: 'פרטיות',
+          html: '<i class="fas fa-user-shield"></i> פרטיות',
         },
         {
           type: 'docSidebar',
           sidebarId: 'securitySidebar',
           position: 'left',
-          label: 'אבטחה',
+          html: '<i class="fas fa-lock"></i> אבטחה',
         },
         {
           type: 'docSidebar',
@@ -119,8 +119,10 @@ const config: Config = {
         },
         {
           href: 'https://גיימינג.ישראל',
-          label: 'איגוד הגיימינג הישראלי',
+          html: '<i class="fas fa-gamepad"></i>',
           position: 'right',
+          className: 'navbar-gaming-link',
+          'aria-label': 'Israeli Gaming Association',
         },
       ],
     },
