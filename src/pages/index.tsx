@@ -5,6 +5,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import CenteredTextWithLines from '@site/src/components/CenteredTextWithLines';
 import ValuesSection from '@site/src/components/ValuesSection';
+import ContactSection from '@site/src/components/ContactSection';
 
 import styles from './index.module.css';
 
@@ -31,6 +32,7 @@ export default function Home(): JSX.Element {
         <HomepageFeatures />
         <CenteredTextWithLines />
         <ValuesSection />
+        <ContactSection />
       </main>
     </Layout>
   );
