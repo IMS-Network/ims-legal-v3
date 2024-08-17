@@ -104,8 +104,22 @@ const config: Config = {
           label: 'קהילה',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://ims-network.org',
+          label: 'אודות החברה',
+          position: 'left',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
+          href: 'https://cloud.ims-network.net',
+          label: 'הענן שלנו',
+          position: 'right',
+        },
+        {
+          href: 'https://גיימינג.ישראל',
+          label: 'איגוד הגיימינג הישראלי',
           position: 'right',
         },
       ],
