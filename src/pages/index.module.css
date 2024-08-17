@@ -5,10 +5,17 @@
 
 /* styles.module.css */
 .heroBanner {
-  padding: 4rem 0;
+  height: 100vh; /* Full height of the viewport */
+  width: 100vw;  /* Full width of the viewport */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   position: relative;
   overflow: hidden;
+  padding: 0; /* Remove padding to allow full height */
+  margin: 0; /* Ensure no margin is affecting the layout */
 }
 
 .parallaxBackground {
@@ -17,11 +24,20 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
+  height: 100%; /* Ensure background covers the full height */
+}
+
+.container {
+  z-index: 2; /* Ensure content is above the background */
+  color: white;
+  padding: 20px;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    height: 100vh; /* Ensure it remains full height on smaller screens */
+    width: 100vw;  /* Ensure full width on smaller screens */
   }
 }
 
