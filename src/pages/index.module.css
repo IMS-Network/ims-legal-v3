@@ -3,11 +3,20 @@
  * and scoped locally.
  */
 
+/* styles.module.css */
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+.parallaxBackground {
+  background-image: url('/img/backround.png'); /* Use correct path to your image */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media screen and (max-width: 996px) {
