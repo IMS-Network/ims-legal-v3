@@ -14,11 +14,6 @@ function HomepageHeader() {
       <div className={styles.headerContent}>
         <h1 className={styles.headerTitle}>{siteConfig.title}</h1>
         <p className={styles.headerSubtitle}>{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <a className="button button--secondary button--lg" href="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </a>
-        </div>
       </div>
     </header>
   );

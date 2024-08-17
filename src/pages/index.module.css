@@ -14,6 +14,12 @@
   padding: 0; /* Ensure no padding is affecting the layout */
 }
 
+.headerTitle {
+  font-size: 80px;
+  font-family: 'M PLUS Rounded 1c', sans-serif; /* Apply the M PLUS Rounded 1c font */
+  margin: 0;
+}
+
 .headerContent {
   z-index: 2; /* Ensure content is above the background */
   color: white;
