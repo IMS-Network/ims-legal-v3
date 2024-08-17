@@ -3,7 +3,6 @@
 .section {
   padding: 50px 20px;
   text-align: center;
-  color: #fff;
 }
 
 .mainTitle {
@@ -34,7 +33,7 @@
   width: 100%;
   max-width: 300px;
   text-align: center;
-  border: 1px solid #333;
+  border: 1px solid var(--border-color);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
