@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import CenteredTextWithLines from '@site/src/components/CenteredTextWithLines';
+import ValuesSection from '@site/src/components/ValuesSection';
 
 import styles from './index.module.css';
 
@@ -29,6 +30,7 @@ export default function Home(): JSX.Element {
       <main>
         <HomepageFeatures />
         <CenteredTextWithLines />
+        <ValuesSection />
       </main>
     </Layout>
   );
