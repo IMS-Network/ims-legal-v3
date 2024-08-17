@@ -2,7 +2,7 @@
 .parallax-container {
   position: relative;
   height: 100vh; /* Full height */
-  background-image: url('https://legal.ims-network.net/wp-content/uploads/sites/2/2023/12/legal-backround-2000x1125-1.png'); /* Replace with your image URL */
+  background-image: url('../../../static/img/backround.png'); /* Replace with your image URL */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,11 +15,11 @@
 
 .content {
   position: relative;
-  z-index: 2; /* Ensures content is above the background */
-  color: white; /* Adjust text color as needed */
+  z-index: 2;
+  color: white;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.5); /* Optional: darken background for readability */
-  border-radius: 10px; /* Optional: add some border radius */
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
 }
 
 .title {

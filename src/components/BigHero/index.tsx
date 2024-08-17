@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles.module.css';
 
-const ParallaxHeader: React.FC = () => {
+const BigHero: React.FC = () => {
   return (
     <div className="parallax-container">
       <div className="content">
@@ -12,4 +12,4 @@ const ParallaxHeader: React.FC = () => {
   );
 };
 
-export default ParallaxHeader;
+export default BigHero;
