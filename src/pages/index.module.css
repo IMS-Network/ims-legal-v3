@@ -1,27 +1,27 @@
 .fullScreenHeader {
-  height: 100vh; /* Full height of the viewport */
-  width: 100vw;  /* Full width of the viewport */
+  height: 100vh;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('/img/backround.png'); /* Correct path to your background image */
+  background-image: url('/img/backround.png');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  margin: 0;  /* Ensure no margin is affecting the layout */
-  padding: 0; /* Ensure no padding is affecting the layout */
+  margin: 0;
+  padding: 0;
 }
 
 .headerTitle {
   font-size: 80px;
-  font-family: 'M PLUS Rounded 1c', sans-serif; /* Apply the M PLUS Rounded 1c font */
+  font-family: 'M PLUS Rounded 1c', sans-serif;
   margin: 0;
 }
 
 .headerContent {
-  z-index: 2; /* Ensure content is above the background */
+  z-index: 2;
   color: white;
 }
 
