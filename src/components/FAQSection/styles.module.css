@@ -3,8 +3,7 @@
 .faqSection {
     padding: 50px 20px;
     text-align: center;
-    background-color: #000;
-    color: #fff;
+    color: var(--text-solid-color);
   }
   
   .mainTitle {
@@ -21,17 +20,17 @@
   }
   
   .faqItem {
-    background-color: #111;
+    background-color: var(--ifm-background-primary);
     border-radius: 15px;
     padding: 20px;
     text-align: left;
-    border: 1px solid #333;
+    border: 1px solid var(--border-color);
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
   
   .faqItem:hover {
-    background-color: #222;
+    background-color: var(--hover-background-secondary);
   }
   
   .faqQuestion {
