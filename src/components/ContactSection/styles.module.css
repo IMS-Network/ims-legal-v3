@@ -1,0 +1,41 @@
+/* ContactSection.module.css */
+
+.contactSection {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .mainTitle {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .subtitle {
+    font-family: 'Heebo', sans-serif;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    color: white;
+  }
+  
+  .contactButton {
+    background-color: #ff3b3b;
+    color: white;
+    font-family: 'Heebo', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contactButton:hover {
+    background-color: #e02f2f;
+  }
+  
