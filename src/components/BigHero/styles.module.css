@@ -1,8 +1,8 @@
 /* ParallaxHeader.css */
 .parallax-container {
   position: relative;
-  height: 100vh; /* Full height */
-  background-image: url('../../../static/img/backround.png'); /* Replace with your image URL */
+  height: 100vh;
+  background-image: url('../../../static/img/backround.png');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
