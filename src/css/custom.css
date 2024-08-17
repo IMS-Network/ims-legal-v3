@@ -13,6 +13,7 @@
   --ifm-color-background: #121212;
   --ifm-background-primary: #f8f9fa;
   --border-color: #333333;
+  --text-solid-color: black;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
@@ -42,6 +43,7 @@
   --ifm-color-background: #f8f9fa; 
   --ifm-background-primary: #121212;
   --border-color: #eaecef;
+  --text-solid-color: white;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
