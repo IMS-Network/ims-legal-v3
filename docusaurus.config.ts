@@ -89,19 +89,19 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tosSidebar',
           position: 'left',
-          label: 'תנאים והגבלות',
+          html: '<i class="fas fa-file-contract"></i> תנאים והגבלות',
         },
         {
           type: 'docSidebar',
           sidebarId: 'cloudSidebar',
           position: 'left',
-          label: 'הענן שלנו',
+          html: '<i class="fas fa-cloud"></i> הענן שלנו',
         },
         {
           type: 'docSidebar',
           sidebarId: 'communitySidebar',
           position: 'left',
-          label: 'קהילה',
+          html: '<i class="fas fa-users"></i> קהילה',
         },
         {
           href: 'https://ims-network.org',
