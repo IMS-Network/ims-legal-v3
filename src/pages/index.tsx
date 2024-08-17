@@ -6,6 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import CenteredTextWithLines from '@site/src/components/CenteredTextWithLines';
 import ValuesSection from '@site/src/components/ValuesSection';
 import ContactSection from '@site/src/components/ContactSection';
+import FAQSection from '@site/src/components/FAQSection';
 
 import styles from './index.module.css';
 
@@ -33,6 +34,7 @@ export default function Home(): JSX.Element {
         <CenteredTextWithLines />
         <ValuesSection />
         <ContactSection />
+        <FAQSection />
       </main>
     </Layout>
   );
