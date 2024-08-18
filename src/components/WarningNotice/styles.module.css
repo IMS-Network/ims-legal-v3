@@ -1,0 +1,36 @@
+/* WarningNotice.module.css */
+
+.noticeContainer {
+  background-color: #000;
+  border-radius: 15px;
+  padding: 40px;
+  color: white;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #333;
+}
+
+.mainTitle {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #e02f2f; /* Red color for the title */
+}
+
+.noticeText {
+  font-family: 'Heebo', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  white-space: pre-line;
+}
+
+.importantMessage {
+  font-family: 'Heebo', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #ff3b3b; /* Bright red color for emphasis */
+  text-align: center;
+  white-space: pre-line;
+}
