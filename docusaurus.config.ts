@@ -100,6 +100,12 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
+          sidebarId: 'isoSidebar',
+          position: 'left',
+          html: '<i class="fas fa-certificate"></i> תקנים',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'communitySidebar',
           position: 'left',
           html: '<i class="fas fa-users"></i> קהילה',
