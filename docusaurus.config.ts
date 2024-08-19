@@ -125,14 +125,27 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://cloud.ims-network.net',
-          html: '<i class="fas fa-server"></i> פלטפורמת ענן',
+          type: 'dropdown',
+          html: '<i class="fas fa-box"></i> מוצרים',
           position: 'right',
-        },
-        {
-          href: 'https://גיימינג.ישראל',
-          html: '<i class="fas fa-gamepad"></i> איגוד הגיימינג הישראלי', 
-          position: 'right',
+          items: [
+            {
+              href: 'https://cloud.ims-network.net',
+              html: '<i class="fas fa-server"></i> פלטפורמת ענן',
+            },
+            {
+              href: 'https://גיימינג.ישראל',
+              html: '<i class="fas fa-gamepad"></i> איגוד הגיימינג הישראלי', 
+            },
+            {
+              href: 'https://workway.co.il',
+              html: '<i class="fas fa-briefcase"></i> המקום לכל משימה',
+            },
+            {
+              herf: 'https://discord.ims-network.net',
+              html: '<i class="fab fa-discord"></i> דיסקורד',
+            },
+          ],
         },
       ],
     },
