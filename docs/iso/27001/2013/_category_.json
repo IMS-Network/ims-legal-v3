@@ -1,9 +1,8 @@
 {
-    "label": "ISO 27001 2013",
-    "position": 2,
-    "link": {
-      "type": "generated-index",
-      "description": "ISO 27001 2013 ISMS"
-    }
+  "label": "תקן אבטחת מידע ISO 27001:2013",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "מידע מפורט על מערכת ניהול אבטחת מידע ISO 27001:2013"
   }
-  
+}
