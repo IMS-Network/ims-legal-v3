@@ -142,7 +142,7 @@ const config: Config = {
               html: '<i class="fas fa-briefcase"></i> המקום לכל משימה',
             },
             {
-              herf: 'https://discord.ims-network.net',
+              href: 'https://discord.ims-network.net',
               html: '<i class="fab fa-discord"></i> דיסקורד',
             },
           ],
