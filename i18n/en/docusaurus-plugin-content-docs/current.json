@@ -1,0 +1,278 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.privacySidebar.category.הסכמי פרטיות לציבור": {
+    "message": "הסכמי פרטיות לציבור",
+    "description": "The label for category הסכמי פרטיות לציבור in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.הסכמי פרטיות לציבור.link.generated-index.description": {
+    "message": "מדיניות פרטיות ציבורים לפלטפורמות ומערכות שלנו",
+    "description": "The generated-index page description for category הסכמי פרטיות לציבור in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.מדיניות פרטיות מורחבת": {
+    "message": "מדיניות פרטיות מורחבת",
+    "description": "The label for category מדיניות פרטיות מורחבת in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.מדיניות פרטיות מורחבת.link.generated-index.description": {
+    "message": "מדיניות פרטיות ציבורים לפלטפורמות ומערכות שלנו",
+    "description": "The generated-index page description for category מדיניות פרטיות מורחבת in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.ארה״ב": {
+    "message": "ארה״ב",
+    "description": "The label for category ארה״ב in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.ארה״ב.link.generated-index.description": {
+    "message": "מדיניות פרטיות מורחבת ארה״ב",
+    "description": "The generated-index page description for category ארה״ב in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.אירופה": {
+    "message": "אירופה",
+    "description": "The label for category אירופה in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.אירופה.link.generated-index.description": {
+    "message": "מדיניות פרטיות מורחבת לאירופה",
+    "description": "The generated-index page description for category אירופה in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.עוגיות": {
+    "message": "עוגיות",
+    "description": "The label for category עוגיות in sidebar privacySidebar"
+  },
+  "sidebar.privacySidebar.category.עוגיות.link.generated-index.description": {
+    "message": "מדיניות עוגיות לפלטפורמות ומערכות שלנו",
+    "description": "The generated-index page description for category עוגיות in sidebar privacySidebar"
+  },
+  "sidebar.tosSidebar.category.מסחר אלקטרוני": {
+    "message": "מסחר אלקטרוני",
+    "description": "The label for category מסחר אלקטרוני in sidebar tosSidebar"
+  },
+  "sidebar.tosSidebar.category.מסחר אלקטרוני.link.generated-index.description": {
+    "message": "תנאים והגבלות בעבור מסחר אלקטרוני",
+    "description": "The generated-index page description for category מסחר אלקטרוני in sidebar tosSidebar"
+  },
+  "sidebar.tosSidebar.category.פלטפורמת גיימינג ישראל": {
+    "message": "פלטפורמת גיימינג ישראל",
+    "description": "The label for category פלטפורמת גיימינג ישראל in sidebar tosSidebar"
+  },
+  "sidebar.tosSidebar.category.פלטפורמת גיימינג ישראל.link.generated-index.description": {
+    "message": "תנאים והגבלות לפלטפורמת גיימינג ישראל",
+    "description": "The generated-index page description for category פלטפורמת גיימינג ישראל in sidebar tosSidebar"
+  },
+  "sidebar.isoSidebar.category.ISO 27001": {
+    "message": "ISO 27001",
+    "description": "The label for category ISO 27001 in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.ISO 27001.link.generated-index.description": {
+    "message": "ISO 27001 ISMS",
+    "description": "The generated-index page description for category ISO 27001 in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.ISO 27001:2013": {
+    "message": "ISO 27001:2013",
+    "description": "The label for category ISO 27001:2013 in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.ISO 27001:2013.link.generated-index.description": {
+    "message": "מידע מפורט על מערכת ניהול אבטחת מידע ISO 27001:2013",
+    "description": "The generated-index page description for category ISO 27001:2013 in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A6 ארגון אבטחת מידע": {
+    "message": "A6 ארגון אבטחת מידע",
+    "description": "The label for category A6 ארגון אבטחת מידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A6.1 ארגון פנימי ": {
+    "message": "A6.1 ארגון פנימי ",
+    "description": "The label for category A6.1 ארגון פנימי  in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A6.2 מכשירים ניידים ועבודה מרחוק": {
+    "message": "A6.2 מכשירים ניידים ועבודה מרחוק",
+    "description": "The label for category A6.2 מכשירים ניידים ועבודה מרחוק in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A7 אבטחת כוח אדם": {
+    "message": "A7 אבטחת כוח אדם",
+    "description": "The label for category A7 אבטחת כוח אדם in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A7.1 טרם העסקה": {
+    "message": "A7.1 טרם העסקה",
+    "description": "The label for category A7.1 טרם העסקה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A7.2 במהלך ההעסקה": {
+    "message": "A7.2 במהלך ההעסקה",
+    "description": "The label for category A7.2 במהלך ההעסקה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A7.3 פיטורין או שינוי תפקיד": {
+    "message": "A7.3 פיטורין או שינוי תפקיד",
+    "description": "The label for category A7.3 פיטורין או שינוי תפקיד in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A8 ניהול נכסים": {
+    "message": "A8 ניהול נכסים",
+    "description": "The label for category A8 ניהול נכסים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A8.1 אחריות על נכסים": {
+    "message": "A8.1 אחריות על נכסים",
+    "description": "The label for category A8.1 אחריות על נכסים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A8.2 סיווג המידע": {
+    "message": "A8.2 סיווג המידע",
+    "description": "The label for category A8.2 סיווג המידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A8.3 ניהול מדיה": {
+    "message": "A8.3 ניהול מדיה",
+    "description": "The label for category A8.3 ניהול מדיה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A9 בקרת גישה": {
+    "message": "A9 בקרת גישה",
+    "description": "The label for category A9 בקרת גישה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A9.1 דרישות עסקיות לבקרת גישה": {
+    "message": "A9.1 דרישות עסקיות לבקרת גישה",
+    "description": "The label for category A9.1 דרישות עסקיות לבקרת גישה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A9.2 ניהול גישת משתמשים": {
+    "message": "A9.2 ניהול גישת משתמשים",
+    "description": "The label for category A9.2 ניהול גישת משתמשים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A9.3 אחריות המשתמשים": {
+    "message": "A9.3 אחריות המשתמשים",
+    "description": "The label for category A9.3 אחריות המשתמשים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A9.4 בקרת גישה של מערכות ואפליקציות": {
+    "message": "A9.4 בקרת גישה של מערכות ואפליקציות",
+    "description": "The label for category A9.4 בקרת גישה של מערכות ואפליקציות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A10 הצפנה": {
+    "message": "A10 הצפנה",
+    "description": "The label for category A10 הצפנה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A10.1 הצפנה": {
+    "message": "A10.1 הצפנה",
+    "description": "The label for category A10.1 הצפנה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A11 אבטחה פיזית וסביבתית": {
+    "message": "A11 אבטחה פיזית וסביבתית",
+    "description": "The label for category A11 אבטחה פיזית וסביבתית in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A11.1 איזורים מאובטחים": {
+    "message": "A11.1 איזורים מאובטחים",
+    "description": "The label for category A11.1 איזורים מאובטחים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A11.2 אבטחת ציוד": {
+    "message": "A11.2 אבטחת ציוד",
+    "description": "The label for category A11.2 אבטחת ציוד in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12 אבטחת תפעול": {
+    "message": "A12 אבטחת תפעול",
+    "description": "The label for category A12 אבטחת תפעול in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.1 הליכי תפעול וחלוקת אחריות": {
+    "message": "A12.1 הליכי תפעול וחלוקת אחריות",
+    "description": "The label for category A12.1 הליכי תפעול וחלוקת אחריות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.2 הגנה מפני נוזקה": {
+    "message": "A12.2 הגנה מפני נוזקה",
+    "description": "The label for category A12.2 הגנה מפני נוזקה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.3 גיבוי": {
+    "message": "A12.3 גיבוי",
+    "description": "The label for category A12.3 גיבוי in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.4 לוגים וניטור": {
+    "message": "A12.4 לוגים וניטור",
+    "description": "The label for category A12.4 לוגים וניטור in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.5 בקרה על תוכנות תפעוליות": {
+    "message": "A12.5 בקרה על תוכנות תפעוליות",
+    "description": "The label for category A12.5 בקרה על תוכנות תפעוליות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.6 ניהול פגיעויות טכניות": {
+    "message": "A12.6 ניהול פגיעויות טכניות",
+    "description": "The label for category A12.6 ניהול פגיעויות טכניות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A12.7 שיקולי ביקורת מערכות מידע": {
+    "message": "A12.7 שיקולי ביקורת מערכות מידע",
+    "description": "The label for category A12.7 שיקולי ביקורת מערכות מידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A13 אבטחת תקשורת": {
+    "message": "A13 אבטחת תקשורת",
+    "description": "The label for category A13 אבטחת תקשורת in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A13.1 ניהול אבטחת רשתות": {
+    "message": "A13.1 ניהול אבטחת רשתות",
+    "description": "The label for category A13.1 ניהול אבטחת רשתות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A13.2 העברת מידע": {
+    "message": "A13.2 העברת מידע",
+    "description": "The label for category A13.2 העברת מידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A14 רכש פיתוח ותחזוקת מערכות": {
+    "message": "A14 רכש פיתוח ותחזוקת מערכות",
+    "description": "The label for category A14 רכש פיתוח ותחזוקת מערכות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A14.1 דרישות אבטחה ממערכות המידע": {
+    "message": "A14.1 דרישות אבטחה ממערכות המידע",
+    "description": "The label for category A14.1 דרישות אבטחה ממערכות המידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A14.2 אבטחה בעת פיתוח ותמיכה": {
+    "message": "A14.2 אבטחה בעת פיתוח ותמיכה",
+    "description": "The label for category A14.2 אבטחה בעת פיתוח ותמיכה in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A14.3 הגנה על ממצאי בדיקות": {
+    "message": "A14.3 הגנה על ממצאי בדיקות",
+    "description": "The label for category A14.3 הגנה על ממצאי בדיקות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A15 יחסים עם ספקים": {
+    "message": "A15 יחסים עם ספקים",
+    "description": "The label for category A15 יחסים עם ספקים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A15.1 אבטחת מידע ביחסים עם ספקים": {
+    "message": "A15.1 אבטחת מידע ביחסים עם ספקים",
+    "description": "The label for category A15.1 אבטחת מידע ביחסים עם ספקים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A15.2 ניהול אספקת שירות מספק חיצוני": {
+    "message": "A15.2 ניהול אספקת שירות מספק חיצוני",
+    "description": "The label for category A15.2 ניהול אספקת שירות מספק חיצוני in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A16 ניהול תקריות אבטחת מידע": {
+    "message": "A16 ניהול תקריות אבטחת מידע",
+    "description": "The label for category A16 ניהול תקריות אבטחת מידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A16.1 ניהול תקריות אבטחת מידע והפקת לקחים": {
+    "message": "A16.1 ניהול תקריות אבטחת מידע והפקת לקחים",
+    "description": "The label for category A16.1 ניהול תקריות אבטחת מידע והפקת לקחים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A17 ניהול המשכיות עסקית": {
+    "message": "A17 ניהול המשכיות עסקית",
+    "description": "The label for category A17 ניהול המשכיות עסקית in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A17.1 המשכיות אבטחת מידע": {
+    "message": "A17.1 המשכיות אבטחת מידע",
+    "description": "The label for category A17.1 המשכיות אבטחת מידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A17.2 יתירויות": {
+    "message": "A17.2 יתירויות",
+    "description": "The label for category A17.2 יתירויות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A18 ציות": {
+    "message": "A18 ציות",
+    "description": "The label for category A18 ציות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A18.1 ציות לדרישות החוק": {
+    "message": "A18.1 ציות לדרישות החוק",
+    "description": "The label for category A18.1 ציות לדרישות החוק in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A18.2 סקירת אבטחת מידע": {
+    "message": "A18.2 סקירת אבטחת מידע",
+    "description": "The label for category A18.2 סקירת אבטחת מידע in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.ISO 27001 2022": {
+    "message": "ISO 27001 2022",
+    "description": "The label for category ISO 27001 2022 in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.ISO 27001 2022.link.generated-index.description": {
+    "message": "ISO 27001 2022 ISMS",
+    "description": "The generated-index page description for category ISO 27001 2022 in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A5 בקרות ארגוניות": {
+    "message": "A5 בקרות ארגוניות",
+    "description": "The label for category A5 בקרות ארגוניות in sidebar isoSidebar"
+  }
+}

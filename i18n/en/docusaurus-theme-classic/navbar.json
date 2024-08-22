@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "IMS - Legal",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "IMS - Legal",
+    "description": "The alt text of navbar logo"
+  }
+}
