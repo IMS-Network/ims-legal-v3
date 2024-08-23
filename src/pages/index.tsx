@@ -25,8 +25,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title} | ${siteConfig.tagline}`}
+      description="פורטל המדיניות של חברת איי.אמ.אס טכנולוגיות">
       <HomepageHeader />
       <main>
         <CenteredTextWithLines />

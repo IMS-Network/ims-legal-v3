@@ -2,7 +2,10 @@
 sidebar_position: 2
 title: פרטיות בענן
 tags: [ענן, מדיניות]
-keywords: ענן, מדיניות
+keywords:
+    - ענן
+    - מדיניות
+    - פרטיות
 ---
 
 
