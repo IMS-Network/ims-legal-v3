@@ -1,6 +1,12 @@
 ---
 sidebar_position: 5
 title: קנדה (PIPEDA)
+tags: [פרטיות, מדיניות]
+keywords:
+    - פרטיות
+    - מדיניות
+    - קנדה
+    - PIPEDA
 ---
 
 
