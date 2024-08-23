@@ -151,7 +151,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `.כל הזכויות שמורות לאיי.אמ.אס טכנולוגיות © ${new Date().getFullYear()} \nנוצר ב🇮🇱 עם המון 🥙`,
     },
     prism: {
       theme: prismThemes.github,
