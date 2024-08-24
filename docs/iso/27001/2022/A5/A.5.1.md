@@ -3,16 +3,6 @@ sidebar_position: 1
 title: A.5.1 מדיניות לאבטחת מידע
 ---
 
-
-
-sidebar_position: 12  
-title: A.5.12 סיווג מידע
-
----
-
-sidebar_position: 13  
-title: A.5.13 תיוג מידע
-
 ---
 
 sidebar_position: 14  
