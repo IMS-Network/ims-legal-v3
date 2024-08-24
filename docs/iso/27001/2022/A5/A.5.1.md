@@ -5,11 +5,6 @@ title: A.5.1 מדיניות לאבטחת מידע
 
 ---
 
-sidebar_position: 14  
-title: A.5.14 העברת מידע
-
----
-
 sidebar_position: 15  
 title: A.5.15 בקרת גישה
 
