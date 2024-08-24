@@ -3,17 +3,7 @@ sidebar_position: 1
 title: A.5.1 מדיניות לאבטחת מידע
 ---
 
----
 
-sidebar_position: 10  
-title: A.5.10 שימוש מקובל במידע ונכסים משויכים אחרים
-
----
-
-sidebar_position: 11  
-title: A.5.11 החזרת נכסים
-
----
 
 sidebar_position: 12  
 title: A.5.12 סיווג מידע
