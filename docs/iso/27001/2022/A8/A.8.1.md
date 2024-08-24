@@ -1,0 +1,171 @@
+---
+sidebar_position: 1  
+title: A.8.1 התקני קצה של משתמשים
+---
+
+sidebar_position: 2  
+title: A.8.2 זכויות גישה מורשות
+
+---
+
+sidebar_position: 3  
+title: A.8.3 הגבלת גישה למידע
+
+---
+
+sidebar_position: 4  
+title: A.8.4 גישה לקוד מקור
+
+---
+
+sidebar_position: 5  
+title: A.8.5 אימות מאובטח
+
+---
+
+sidebar_position: 6  
+title: A.8.6 ניהול קיבולת
+
+---
+
+sidebar_position: 7  
+title: A.8.7 הגנה מפני תוכנות זדוניות
+
+---
+
+sidebar_position: 8  
+title: A.8.8 ניהול פגיעויות טכניות
+
+---
+
+sidebar_position: 9  
+title: A.8.9 ניהול תצורה
+
+---
+
+sidebar_position: 10  
+title: A.8.10 מחיקת מידע
+
+---
+
+sidebar_position: 11  
+title: A.8.11 העלמת נתונים
+
+---
+
+sidebar_position: 12  
+title: A.8.12 מניעת דליפת מידע
+
+---
+
+sidebar_position: 13  
+title: A.8.13 גיבוי נתונים
+
+---
+
+sidebar_position: 14  
+title: A.8.14 יתירות של מתקני עיבוד מידע
+
+---
+
+sidebar_position: 15  
+title: A.8.15 רישום
+
+---
+
+sidebar_position: 16  
+title: A.8.16 ניטור פעילויות
+
+---
+
+sidebar_position: 17  
+title: A.8.17 סינכרון שעון
+
+---
+
+sidebar_position: 18  
+title: A.8.18 שימוש בתוכניות שירות עזר מורשות
+
+---
+
+sidebar_position: 19  
+title: A.8.19 התקנת תוכנה על מערכות תפעוליות
+
+---
+
+sidebar_position: 20  
+title: A.8.20 אבטחת רשתות
+
+---
+
+sidebar_position: 21  
+title: A.8.21 אבטחת שירותי רשת
+
+---
+
+sidebar_position: 22  
+title: A.8.22 הפרדת רשתות
+
+---
+
+sidebar_position: 23  
+title: A.8.23 סינון אינטרנט
+
+---
+
+sidebar_position: 24  
+title: A.8.24 שימוש בקריפטוגרפיה
+
+---
+
+sidebar_position: 25  
+title: A.8.25 מחזור חיים מאובטח של פיתוח
+
+---
+
+sidebar_position: 26  
+title: A.8.26 דרישות אבטחת יישומים
+
+---
+
+sidebar_position: 27  
+title: A.8.27 ארכיטקטורת מערכת מאובטחת ועקרונות הנדסה
+
+---
+
+sidebar_position: 28  
+title: A.8.28 קידוד מאובטח
+
+---
+
+sidebar_position: 29  
+title: A.8.29 בדיקות אבטחה בפיתוח וקבלה
+
+---
+
+sidebar_position: 30  
+title: A.8.30 פיתוח חיצוני
+
+---
+
+sidebar_position: 31  
+title: A.8.31 הפרדה בין סביבות פיתוח, בדיקות וייצור
+
+---
+
+sidebar_position: 32  
+title: A.8.32 ניהול שינויים
+
+---
+
+sidebar_position: 33  
+title: A.8.33 מידע במהלך בדיקות
+
+---
+
+sidebar_position: 34  
+title: A.8.34 הגנה על מערכות מידע במהלך בדיקות
+
+---
+
+This matches the structure you requested without using bold formatting.
