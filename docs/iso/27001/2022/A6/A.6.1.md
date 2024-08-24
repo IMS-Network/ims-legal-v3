@@ -3,10 +3,6 @@ sidebar_position: 1
 title: A.6.1 סינון
 ---
 
----
-
-sidebar_position: 2  
-title: A.6.2 תנאי העסקה
 
 ---
 
