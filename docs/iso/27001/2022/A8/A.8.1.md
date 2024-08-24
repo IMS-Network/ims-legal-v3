@@ -3,16 +3,6 @@ sidebar_position: 1
 title: A.8.1 התקני קצה של משתמשים
 ---
 
-sidebar_position: 2  
-title: A.8.2 זכויות גישה מורשות
-
----
-
-sidebar_position: 3  
-title: A.8.3 הגבלת גישה למידע
-
----
-
 sidebar_position: 4  
 title: A.8.4 גישה לקוד מקור
 
