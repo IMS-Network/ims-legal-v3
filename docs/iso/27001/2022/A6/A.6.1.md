@@ -4,38 +4,6 @@ title: A.6.1 סינון
 ---
 
 
----
-
-sidebar_position: 3  
-title: A.6.3 מודעות, חינוך והדרכה לאבטחת מידע
-
----
-
-sidebar_position: 4  
-title: A.6.4 תהליך משמעתי
-
----
-
-sidebar_position: 5  
-title: A.6.5 אחריות לאחר סיום או שינוי העסקה
-
----
-
-sidebar_position: 6  
-title: A.6.6 הסכמי סודיות או אי-גילוי
-
----
-
-sidebar_position: 7  
-title: A.6.7 עבודה מרחוק
-
----
-
-sidebar_position: 8  
-title: A.6.8 דיווח על אירועי אבטחת מידע
-
----
-
 ### Section A.7
 
 ---
