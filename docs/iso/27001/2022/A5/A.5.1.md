@@ -4,17 +4,6 @@ title: A.5.1 מדיניות לאבטחת מידע
 ---
 
 ---
-
-sidebar_position: 15  
-title: A.5.15 בקרת גישה
-
----
-
-sidebar_position: 16  
-title: A.5.16 ניהול זהויות
-
----
-
 sidebar_position: 17  
 title: A.5.17 פרטי אימות
 
