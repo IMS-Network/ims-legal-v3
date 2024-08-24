@@ -3,24 +3,6 @@ sidebar_position: 1
 title: A.5.1 מדיניות לאבטחת מידע
 ---
 
----
-sidebar_position: 17  
-title: A.5.17 פרטי אימות
-
----
-
-sidebar_position: 18  
-title: A.5.18 זכויות גישה
-
----
-
-sidebar_position: 19  
-title: A.5.19 אבטחת מידע ביחסים עם ספקים
-
----
-
-sidebar_position: 20  
-title: A.5.20 התייחסות לאבטחת מידע בהסכמי ספקים
 
 ---
 
