@@ -1,4 +1,4 @@
 ---
-sidebar_position: 5  
-title: A.5.5 קשר עם רשויות
+sidebar_position: 6  
+title: A.5.6 קשר עם קבוצות עניין מיוחדות
 ---
