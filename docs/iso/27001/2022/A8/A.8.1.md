@@ -3,9 +3,6 @@ sidebar_position: 1
 title: A.8.1 התקני קצה של משתמשים
 ---
 
-sidebar_position: 4  
-title: A.8.4 גישה לקוד מקור
-
 ---
 
 sidebar_position: 5  
