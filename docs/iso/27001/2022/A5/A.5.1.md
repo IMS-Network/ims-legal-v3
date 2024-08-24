@@ -3,27 +3,6 @@ sidebar_position: 1
 title: A.5.1 מדיניות לאבטחת מידע
 ---
 
-
----
-
-sidebar_position: 26  
-title: A.5.26 תגובה לאירועי אבטחת מידע
-
----
-
-sidebar_position: 27  
-title: A.5.27 הפקת לקחים מאירועי אבטחת מידע
-
----
-
-sidebar_position: 28  
-title: A.5.28 איסוף ראיות
-
----
-
-sidebar_position: 29  
-title: A.5.29 אבטחת מידע בשעת שיבוש
-
 ---
 
 sidebar_position: 30  
