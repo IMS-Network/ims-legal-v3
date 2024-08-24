@@ -3,28 +3,6 @@ sidebar_position: 1
 title: A.5.1 מדיניות לאבטחת מידע
 ---
 
-
-
----
-
-sidebar_position: 6  
-title: A.5.6 קשר עם קבוצות עניין מיוחדות
-
----
-
-sidebar_position: 7  
-title: A.5.7 מודיעין איומים
-
----
-
-sidebar_position: 8  
-title: A.5.8 אבטחת מידע בניהול פרויקטים
-
----
-
-sidebar_position: 9  
-title: A.5.9 רשימת מלאי של מידע ונכסים משויכים אחרים
-
 ---
 
 sidebar_position: 10  
