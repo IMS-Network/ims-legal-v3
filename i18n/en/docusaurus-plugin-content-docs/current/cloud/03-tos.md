@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-title: תנאי שירות
-tags: [ענן, מדיניות]
+title: Terms of Service
+tags: [Cloud, Policy]
 keywords:
-    - ענן
-    - מדיניות
-    - תנאי שירות
+    - Cloud
+    - Policy
+    - Terms of Service
 ---
 
 ### 1. קבלת התנאים
