@@ -1,174 +1,111 @@
 ---
 sidebar_position: 5
-title: מדיניות שימוש מקובלת (AUP)
-tags: [ענן, מדיניות]
+title: Acceptable Use Policy (AUP)
+tags: [Cloud, Policy]
 keywords:
-        - ענן
-        - מדיניות
-        - שימוש מקובלת
-        - AUP
-        - תנאי שימוש
+    - Cloud
+    - Policy
+    - Acceptable Use
+    - AUP
+    - Terms of Use
 ---
 
-### 1. מבוא
+### 1. Introduction
 
-מדיניות שימוש מקובלת זו (המתוקנת, שונתה או הוספה מעת לעת כפי שמפורסם באתר איי.אמ.אס טכנולוגיות, ה-"AUP" זו) של איי.אמ.אס טכנולוגיות ושותפיה ("איי.אמ.אס טכנולוגיות"), נועדה להגן על לקוחות איי.אמ.אס טכנולוגיות, משתמשי האתר של איי.אמ.אס טכנולוגיות, מוצרי ושירותי איי.אמ.אס טכנולוגיות ולוודא ציות לכל החוקים והתקנות הרלוונטיים.
+This Acceptable Use Policy (as amended, modified, or added to from time to time as published on the IMS - Network website, this "AUP") of IMS - Network and its affiliates ("IMS - Network"), is designed to protect IMS - Network’s customers, users of IMS - Network's website, IMS - Network's products and services, and to ensure compliance with all relevant laws and regulations.
 
-אם אינך מסכים ל-AUP זו, אנא אל תיכנס, תתחבר, תיגש או תשתמש באתר וב/או בכל אחד מהמוצרים והשירותים.
+If you do not agree with this AUP, please do not access, connect to, or use the website and/or any of the products and services.
 
-AUP זו חלה על כל לקוח שמנוי על המוצרים והשירותים.
+This AUP applies to every customer subscribed to the products and services.
 
-יש לקרוא את AUP זו בשילוב עם התנאים, ה-SLA ומדיניות הפרטיות.
+This AUP should be read in conjunction with the Terms, SLA, and Privacy Policy.
 
-מונחים עם אות גדולה המשמשים כאן ללא הגדרה כאן יקבלו את המשמעות המיוחסת להם בתנאים, SLA או מדיניות הפרטיות, כפי שחל.
+Capitalized terms used but not defined herein shall have the meanings assigned to them in the Terms, SLA, or Privacy Policy, as applicable.
 
-הלקוח מצהיר ומתחייב כי קרא, הבין וקיבל את הוראות התנאים, ה-SLA, מדיניות הפרטיות ו-AUP זו.
+The customer declares and warrants that they have read, understood, and accepted the provisions of the Terms, SLA, Privacy Policy, and this AUP.
 
-על ידי השימוש במוצרים והשירותים, לקוחות אחראים וישארו אחראים לציית להוראות AUP זו ולכל הפרה אשר ניתנת לייחס ללקוחותיהם ולמשתמשים שלהם, בין אם הם מורשים או לא על ידי הלקוח או על ידי איי.אמ.אס טכנולוגיות. לקוחות חייבים לנקוט את כל הצעדים הסבירים על מנת לוודא שלקוחותיהם ומשתמשיהם יצייתו ל-AUP זו.
+By using the products and services, customers are responsible and will remain responsible for complying with the provisions of this AUP, including any violation attributable to their customers and users, whether or not authorized by the customer or IMS - Network. Customers must take all reasonable steps to ensure that their customers and users comply with this AUP.
 
-AUP זו אינה (א) מחייבת את איי.אמ.אס טכנולוגיות לפקח, לסקור או לפטרל על הנתונים והתכנים שנמצאים על השרתים של איי.אמ.אס טכנולוגיות ו/או מנוהלים על ידי הלקוח תחת חשבונו; או (ב) יוצרת כל חובה או חבות של איי.אמ.אס טכנולוגיות כלפי כל צד שהוא לא לקוח. חובת הלקוח להודיע לאיי.אמ.אס טכנולוגיות על כל הפרת חוק או הפרת AUP זו.
+This AUP does not (a) obligate IMS - Network to monitor, review, or patrol the data and content on IMS - Network’s servers and/or managed by the customer under their account, nor (b) create any obligation or liability on IMS - Network to any party other than the customer. It is the customer’s duty to notify IMS - Network of any legal violations or violations of this AUP.
 
-איי.אמ.אס טכנולוגיות מתנערת במפורש מכל אחריות לנתונים והתכנים המועברים דרך או ביניהם על ידי איי.אמ.אס טכנולוגיות, המאוחסנים זמנית או לצמיתות על כל שרת של איי.אמ.אס טכנולוגיות או על ידי השימוש בחשבון ולפעולות או מחדלים של לקוחות ו/או כל אחד מלקוחותיהם ומשתמשיהם.
+IMS - Network explicitly disclaims all responsibility for data and content transmitted through or between IMS - Network, temporarily or permanently stored on any IMS - Network server, or through the use of the account and actions or omissions by customers and/or any of their customers or users.
 
-בנוסף לכל פעולה אחרת שאיי.אמ.אס טכנולוגיות עשויה לנקוט על פי AUP זו, איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות לשתף פעולה באופן מלא עם כל חקירה פלילית של נתונים, מידע או תוכן הממוקם על שרתי איי.אמ.אס טכנולוגיות ו/או נעשה בהם שימוש למטרות פליליות על ידי שימוש במוצרים והשירותים.
+In addition to any other action IMS - Network may take under this AUP, IMS - Network reserves the right to fully cooperate with any criminal investigation of data, information, or content located on IMS - Network's servers and/or used for illegal purposes through the use of the products and services.
 
-### 2. חובות אבטחה וסודיות של לקוחות
+### 2. Customer Security and Confidentiality Responsibilities
 
-הלקוח אחראי ל:
-- (א) להשתמש בזהירות סבירה להבטחת אבטחת חשבונו;
-- (ב) שמירה על סודיות הסיסמה והחשבון שלו;
-- (ג) לוודא שכל הפעולות המתרחשות בקשר עם החשבון עומדות בתנאים, AUP זו והחוקים הרלוונטיים.
+The customer is responsible for:
+- (a) using reasonable care to secure their account;
+- (b) maintaining the confidentiality of their password and account;
+- (c) ensuring that all actions performed in connection with the account comply with the Terms, this AUP, and the relevant laws.
 
-הלקוח מאשר ומסכים כי איי.אמ.אס טכנולוגיות אינה אחראית לניהול הפנימי או לניהול החשבון שלו וכל הנתונים, התכנים והמידע המאוחסנים בו.
+The customer acknowledges and agrees that IMS - Network is not responsible for the internal management or administration of the customer’s account and any data, content, and information stored therein.
 
-הלקוח הוא האחראי הבלעדי לכל חדירה או הפרת אבטחה של כל אחד מחשבונותיו, אלא אם כן כיסוי זה מכוסה על ידי חבילת שירותי ניהול אבטחה ייעודית או שירות אבטחת חומת אש שהוזמנו על ידי הלקוח מאיי.אמ.אס טכנולוגיות.
+The customer is solely responsible for any breach or security violation of any of their accounts unless such coverage is covered under a dedicated security management services package or firewall security service purchased by the customer from IMS - Network.
 
-### 3. פעילויות אסורות
+### 3. Prohibited Activities
 
-#### א. הפרות חוק
+#### A. Legal Violations
 
-הלקוחות לא יאפשרו פרסום, העברה או אחסון של נתונים או תוכן על או דרך החשבון ו/או המוצרים והשירותים אשר, לפי שיקול דעתה הבלעדי של איי.אמ.אס טכנולוגיות, מהווים הפרה של כל חוק פדרלי, מדינתי, מקומי או בינלאומי, תקנה, צו בית משפט או תהליך משפטי אחר ("החוקים הרלוונטיים"). הלקוחות יהיו אחראים לקביעת אילו חוקים רלוונטיים חלים על השימוש שלהם במוצרים והשירותים. תוכן אסור כולל, בין היתר:
-- נתונים, מידע, תוכן או קוד שמקלים על כל הפרה של, או מתארים דרכים להפר את AUP זו או את החוקים הרלוונטיים.
-- כתובות או מידע שנאספו ("harvested").
-- אתרי "phishing".
-- אתרי "spamvertising".
+Customers must not allow the publication, transmission, or storage of data or content on or through the account and/or the products and services that, in IMS - Network’s sole discretion, violate any federal, state, local, or international law, regulation, court order, or other legal process ("Applicable Laws"). Customers are responsible for determining which applicable laws apply to their use of the products and services. Prohibited content includes, but is not limited to:
+- Data, information, content, or code that facilitates or describes ways to violate this AUP or applicable laws.
+- Collected or "harvested" addresses or information.
+- Phishing websites.
+- Spamvertising websites.
 
-#### ב. הפרות קניין רוחני
+#### B. Intellectual Property Violations
 
-הלקוחות לא ישדרו, יפיצו, יורידו, יעתיקו, יאחסנו או יאחסנו בחשבונם כל מידע, נתונים, חומר או עבודה שמפרים את זכויות הקניין הרוחני של אחרים או מפרים כל זכות סוד מסחר של כל אדם אחר. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות הבלעדית והבלעדית להשבית גישה לתוכן מפר או להסיר אותו ככל שנדרש על פי כל חוק או תקנה, כולל, בין היתר, חוק זכויות היוצרים הדיגיטלי של 1998.
+Customers must not transmit, distribute, download, copy, store, or host on their account any information, data, material, or work that violates others' intellectual property rights or infringes on any trade secret rights of any other person. IMS - Network reserves the sole and exclusive right to disable or remove access to infringing content as required by any law or regulation, including, but not limited to, the Digital Millennium Copyright Act of 1998.
 
-#### ג. ספאם ושימוש לא נכון
+#### C. Spam and Misuse
 
-הלקוחות לא ישתמשו בחשבון שלהם ו/או במוצרים והשירותים כדי:
-- לשלוח הודעות בתפוצה רחבה לא רצויה באינטרנט (כלומר, "ספאם").
-- ליצור בלוגים מזויפים שנועדו או סביר להניח שיקדמו את האתרים המקושרים של המחבר או להגדיל את דירוגי מנועי החיפוש של אתרים קשורים (כלומר, "splogs").
-- לשלוח ספאם לאתרי בלוגים או לפרסם באופן אוטומטי תגובות או קידומים אקראיים לשירותים מסחריים לבלוגים (כלומר, "ספאם בלוגים").
+Customers must not use their account and/or the products and services to:
+- Send bulk unsolicited communications over the internet (e.g., “spam”).
+- Create fake blogs that are intended or likely to promote the author's linked websites or to increase search engine rankings for related sites (e.g., “splogs”).
+- Spam blog websites or automatically post random comments or commercial promotions to blogs (e.g., “blog spam”).
 
-משתמשים חייבים לציית לכל החוקים והתקנות הרלוונטיים לגבי דואר אלקטרוני מסחרי ותפוצה רחבה, כולל חוק CAN-SPAM Act של 2003.
+Users must comply with all relevant laws and regulations regarding commercial emails and bulk communications, including the CAN-SPAM Act of 2003.
 
-##### מיילים בתפוצה רחבה
+##### Bulk Emails
 
-לקוחות לא ישלחו דואר אלקטרוני בתפוצה רחבה לא רצויה, שהוא דואר אלקטרוני שנשלח לנמענים שלא אישרו במפורש את השתתפותם במיילים מהלקוח. לקוחות השולחים מיילים בתפוצה רחבה חייבים לשמור תיעוד מלא ומדויק של כל האישורים וההרשמות ולספק את התיעוד הזה לאיי.אמ.אס טכנולוגיות לפי בקשתה. אם הלקוח אינו יכול לספק הוכחה חיובית ואמיתית של האישורים וההרשמות, איי.אמ.אס טכנולוגיות תחשיב את המייל בתפוצה רחבה כלא רצוי.
+Customers must not send unsolicited bulk emails, which are emails sent to recipients who have not expressly consented to receiving such communications from the customer. Customers sending bulk emails must maintain complete and accurate records of all consents and registrations and provide this documentation to IMS - Network upon request. If the customer cannot provide positive and verifiable proof of such consents and registrations, IMS - Network will consider the bulk email to be unsolicited.
 
-##### רשימות תפוצה
+##### Mailing Lists
 
-לקוחות אסורים מהפעלת רשימות תפוצה, שירותי רשימות או שירותי מיילים שאינם מכוונים לקהל שהסכים מרצונו לקבל מידע בדואר אלקטרוני באמצעות תהליך אישור מפורש או אישור לולאת סגירה, או שעשה את כתובות האימייל שלהם זמינות ללקוח להפצת מידע. לקוחות שמפעילים רשימות תפוצה חייבים לשמור תיעוד מלא ומדויק של כל האישורים ואישורי לולאת סגירה ולספק את התיעוד הזה לאיי.אמ.אס טכנולוגיות לפי בקשתה. אם הלקוח אינו יכול לספק הוכחה חיובית ואמיתית של האישורים ואישורי לולאת סגירה, איי.אמ.אס טכנולוגיות תחשיב את רשימת התפוצה כלא רצויה. כל רשימת תפוצה של הלקוח חייבת לאפשר לכל צד ברשימה להסיר את עצמו באופן אוטומטי וקבוע.
+Customers are prohibited from operating mailing lists, list services, or mail services targeting recipients who have not willingly agreed to receive emails via an explicit opt-in or confirmed opt-in process, or who have made their email addresses available to the customer for information distribution purposes. Customers operating mailing lists must maintain full and accurate records of all opt-in and confirmed opt-in consents and provide this documentation to IMS - Network upon request. If the customer cannot provide positive and verifiable proof of such consents and confirmed opt-ins, IMS - Network will consider the mailing list to be unsolicited. Any mailing list operated by the customer must allow any party on the list to automatically and permanently remove themselves.
 
-#### ד. פעילויות אסורות אחרות
+#### D. Other Prohibited Activities
 
-מבלי לגרוע מכל מה שמפורט ב-AUP זו, הלקוח מתחייב שלא לפעול באף אחד מהאופנים הבאים:
-- זיוף, ייצוג שגוי, השמטה או מחיקה של כותרות הודעה, מידע החזרה בדואר או כתובות פרוטוקול אינטרנט, כדי להסתיר או לזהות בצורה שגויה את מקור ההודעה.
-- יצירת או שליחת וירוסי אינטרנט, תולעים או סוסי טרויאני, פצצות מייל או הצפות, או ביצוע התקפות מניעת שירות.
-- פריצה, והפרה או עזרה לאחרים להפר את האבטחה או השלמות של מוצרי או מערכות איי.אמ.אס טכנולוגיות.
-- לבקש ביצוע כל פעילות בלתי חוקית, גם אם הפעילות עצמה לא בוצעה.
-- לאיים על פגיעה גופנית או לעודד פגיעה גופנית או הרס רכוש.
-- הטרדה של אחר, או עידוד התנהגות הטרדה.
-- מעורבות בהונאה מוחלטת, או שימוש בשירותים לצורך הונאות כמו פירמידות.
-- איסוף מידע אישי על אחרים ללא ידיעתם או הסכמתם.
-- הדרכת אחרים בפעילויות אסורות.
-- שימוש בשירותים להפצת או הצגת תמונות המסווגות על פי חוק ארה"ב כפורנוגרפיה של ילדים, ארוטיקה של ילדים (ללא קשר לערך הספרותי או האמנותי) ו/או בסטיאליות.
-- פעולה בכל אופן שיכול לגרום לפעולה רגולטורית לא רצויה על איי.אמ.אס טכנולוגיות, לגרום לנו לכל אחריות מכל סיבה שהיא, או לפגוע בתדמית הציבורית, במוניטין או בטוב של איי.אמ.אס טכנולוגיות, כפי שנקבע על ידינו לפי שיקול דעתנו הבלעדי.
-- יצירת בלוגים מזויפים שנועדו או סביר להניח שיקדמו את האתרים המקושרים של המחבר או להגדיל את דירוגי מנועי החיפוש של אתרים קשורים.
-- שליחת ספאם לאתרי בלוגים או לפרסם באופן אוטומטי תגובות או קידומים אקראיים לשירותים מסחריים לבלוגים.
-- הפרת קניין רוחני ו/או זכויות יוצרים של איי.אמ.אס טכנולוגיות או של כל צד שלישי, כולל, ללא הגבלה, העברה, או השמעת תוכן המפר כל פטנט, סימן מסחר, סוד מסחרי, זכויות יוצרים או זכויות קניין אחרות של כל צד.
-- גרימת או התחלת הפרות אבטחה או שיבושים בתקשורת הרשת ו/או הקישוריות, כולל סריקות פורטים, הצפות פינג, הפצצות מייל, זיוף מנות נתונים, זיוף כתובות IP ומידע ניתוב מזויף.
-- ביצוע כל פעילות רשת שנועדה ליירט נתונים שלא מיועדים לשרת של הלקוח.
-- הימנעות או עקיפת אימות משתמשים או אבטחה של כל מארח, רשת או חשבון, כולל פיצוח, התקפות כוח גס או התקפות מילון.
-- הפרעה או מניעת שירות לכל משתמש, מארח או רשת אחרת מאשר מארח הלקוח, כגון התקפת מניעת שירות או התקפת מניעת שירות מבוזרת.
-- פעולות שנועדו להימנע ממגבלות גישה לשירותים ספציפיים, מארחים או רשתות, כולל זיוף כותרות מנות נתונים או מידע זיהוי אחר.
-- לבקש ביצוע כל פעילות בלתי חוקית, גם אם הפעילות לא בוצעה.
-- שימוש בתוכנית כלשהי, או שליחת הודעות מכל סוג, שנועדו להפריע או לנטרל את מושב הטרמינל של המשתמש.
-- שימוש ברשת איי.אמ.אס טכנולוגיות לקבלת תשובות לדואר אלקטרוני לא רצוי.
-- זיוף כותרות דואר אלקטרוני ("spoofing").
-- שליחת ספאם דרך פרוקסי צד שלישי, איסוף רשימות פרוקסי, או התקנת תוכנות שליחת פרוקסי.
-- קביעת שרת דואר לקבל ולעבד הודעות צד שלישי לשליחה ללא זיהוי ואימות משתמשים.
-- אירוח דפי אינטרנט המפורסמים בתוך דואר זבל שנשלח מרשת אחרת ("spamvertising").
-- אירוח דפי אינטרנט או מתן שירותים שתומכים בדואר זבל.
-- כל הודעות בתפוצה רחבה לא רצויה אחרות, פרסומים או שידורים דרך מדיה כגון פוסטים בבלוגים, הודעות בחדרי צ'אט, הודעות ספר אורחים, רישומי יומני הפניות HTTP, פוסטים ב-usenet, הודעות קופצות, הודעות מיידיות או הודעות SMS.
-- הדרכת אחרים בכל פעילות האסורה על פי AUP זו ו/או החוקים הרלוונטיים.
-- שימוש בכתובות IP שלא הוקצו להם על ידי איי.אמ.אס טכנולוגיות. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות להשעות גישה לרשת של כל שרת המשתמש בכתובות IP מחוץ לטווח המוקצה.
-- הפעלת ותחזוקת שרתי IRC שמתחברים לרשתות IRC גלובליות כגון Undernet, EFnet ו-DALnet. השימוש בתוספי IRC, סקריפטים, תוספים, שכפולים או תוכנות אחרות שנועדו להפריע או למנוע שירות למשתמשים אחרים אסור. פעילות IRC מטרידה או פוגענית אסורה במפורש על פי AUP זו, כולל (i) שיבוש או מניעת שירות או (ii) השימוש או ההצטרפות ל"בוטנטים" או השימוש ב-BNC של IRC או תוכנות פרוקסי והפניה אחרות. אם שרתי IRC של לקוח נפרצים בתדירות גבוהה או מושכים התקפות מניעת שירות או התקפות מניעת שירות מבוזרות שמפריעות או מונעות שירות ללקוחות או משתמשים אחרים, איי.אמ.אס טכנולוגיות עשויה לנתב לאפס, לסנן, להשעות או להפסיק את שירות הלקוח.
-- בעלות על חשבונות מרובים בפלטפורמה (במותג ספציפי או בין מספר שותפים או שותפים).
+Without limiting anything stated in this AUP, the customer agrees not to engage in any of the following activities:
+- Forging, misrepresenting, omitting, or deleting message headers, return mailing information, or internet protocol addresses to conceal or misidentify the origin of a message.
+- Creating or sending internet viruses, worms, Trojan horses, mail bombs, or floods, or launching denial-of-service attacks.
+- Hacking, violating, or assisting others in violating the security or integrity of IMS - Network’s products or systems.
+- Soliciting illegal activity, even if the activity itself is not performed.
+- Threatening bodily harm or encouraging bodily harm or property destruction.
+- Harassing others or encouraging harassing behavior.
+- Engaging in outright fraud or using the services for pyramid schemes.
+- Collecting personal information about others without their knowledge or consent.
+- Teaching others how to perform prohibited activities.
+- Using the services to distribute or display material classified under U.S. law as child pornography, child erotica (regardless of its literary or artistic value), and/or bestiality.
+- Engaging in any manner that could result in unwanted regulatory action against IMS - Network, cause us any liability for any reason, or harm IMS - Network’s public image, reputation, or goodwill, as determined solely by us.
+- Creating fake blogs designed or likely to promote linked websites or improve search engine rankings for related websites.
+- Spamming blog websites or posting automatic random comments or promotions for commercial services to blogs.
+- Infringing the intellectual property rights and/or copyrights of IMS - Network or any third party, including, without limitation, transmitting or hosting content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party.
+- Causing or initiating security violations or network communication disruptions, including port scans, ping floods, mail bombs, packet spoofing, IP address spoofing, and forged routing information.
+- Engaging in any network activity designed to intercept data not intended for the customer’s server.
+- Evading or circumventing user authentication or security of any host, network, or account, including cracking, brute-force attacks, or dictionary attacks.
+- Interfering with or denying service to any user, host, or network other than the customer’s host, such as by a denial-of-service attack or distributed denial-of-service attack.
+- Performing actions designed to bypass access restrictions to specific services, hosts, or networks, including falsifying packet headers or other identifying information.
+- Soliciting illegal activity, even if the activity is not performed.
+- Using any program or sending messages designed to disrupt or disable a user’s terminal session.
+- Using IMS - Network’s network to receive responses to unsolicited emails.
+- Email header forgery ("spoofing").
+- Sending spam via third-party proxies, harvesting proxy lists, or installing proxy mail-sending software.
+- Setting up a mail server to receive and process third-party messages for sending without user identification and verification.
+- Hosting web pages that are advertised within spam emails sent from another network ("spamvertising").
+- Hosting web pages or providing services that support spam.
+- Any other unsolicited bulk communications, posts, or broadcasts via media such as blog posts, chat room messages, guestbook entries, HTTP referral log entries, usenet posts, popup messages, instant messages, or SMS messages.
+- Teaching others any prohibited activity under this AUP and/or applicable laws.
+- Using IP addresses not assigned to them by IMS - Network. IMS - Network reserves the right to suspend network access to any server using IP addresses outside the assigned range.
+- Operating and maintaining IRC servers that connect to global IRC networks such as Undernet, EFnet, and DALnet. The use of IRC plugins
 
-למניעת כל ספק, כל פעילויות ותפעול הלקוח הם ויהיו בהתאם לכל חוק, לא פוגעניים לקהל כלשהו ולא מזיקים לצד שלישי כלשהו, ובכל עת להימנע ממעשים מטעות, מטעים או בלתי אתיים אשר עלולים להזיק לאיי.אמ.אס טכנולוגיות או לכל צד שלישי. המשתמש מתחייב שהשירותים המסופקים על ידי איי.אמ.אס טכנולוגיות לא ישמשו לעולם על ידי המשתמש ו/או כל צד שלישי לפעילויות המכילות תוכן שהוא: לשון הרע; ו/או גס; ו/או משמיץ; ו/או מפלה; ו/או פוגעני; ו/או מטעה; ו/או פוגעני – מכיל או מתקין כל וירוסים, תולעים, באגים, סוסי טרויאני או קוד אחר, קבצים או תוכניות שנועדו או יכולים, לשבש, לפגוע או להגביל את הפונקציונליות של כל תוכנה או חומרה; ו/או אלימות, כולל מקדם, מעודד או עוסק בטרור, אלימות נגד אנשים, בעלי חיים או רכוש; ו/או פורנוגרפיית ילדים ופדופיליה, כולל, ללא הגבלה, כל תוכן שמקדם, מעודד או עוסק בניצול ילדים; ו/או תרופות מרשם – מקדם, מעודד או עוסק במכירה או הפצה; ו/או בלתי מורשה או בלתי מוסדר על פי חוק, הימורים; ו/או בלתי חוקי או מקדם או מעודד פעילות בלתי חוקית.
-
-### 4. מגבלות נוספות ופעילויות אסורות
-
-בנוסף לכל הפעילויות האסורות המפורטות ב-AUP זו וללא לגרוע מכל מה שנאמר, הלקוח מתחייב שלא:
-- לשמור עותקים מרובים של קבצים זהים ו/או דומים במהותם.
-- להשתמש במוצרים ובשירותים או בכל אחד מהשרתים של איי.אמ.אס טכנולוגיות לצורכי גיבוי.
-- להשתמש במוצרים ובשירותים לשידור קבצים למספר גדול של משתמשים (megauploading), ובמיוחד בזמן שימוש בשירות שרת קבצים בענן.
-- אחסון בשירות שרת קבצים בענן ממוצע מעל 1TiB של אחסון למשתמש פעיל.
-
-### 5. התחייבויות הלקוח
-
-הלקוח חייב להגיש ולקבל כל הרישיונות, היתרים ואישורים אחרים הדרושים למילוי חובותיו לפי התנאים, AUP זו וכל החוקים הרלוונטיים.
-
-הלקוח מסכים ומתחייב שכל התכנים והפעילויות המתבצעות באמצעות החשבון ו/או המוצרים והשירותים הם על אחריות הלקוח בלבד. למרות זאת, הלקוח מאשר כי אף על פי שאיי.אמ.אס טכנולוגיות אינה בודקת מראש את התוכן המשמש את הלקוח באמצעות החשבון ו/או המוצרים והשירותים, איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות, אך לא החובה, לפי שיקול דעתה הבלעדי להסיר או לסרב לספק את המוצרים והשירותים, במקרה של תוכן פוגעני או בהתאם לדרישת כל רשות חוקית, ללא פיצוי מכל סוג, כספי או אחר כלפי הלקוח. הלקוח מסכים כי עליו להעריך ולקחת את כל הסיכונים הקשורים לשימוש בכל תוכן ופעילות שלו.
-
-הלקוח חייב לציית בכל עת לכל החוקים, התקנות, הצווים, הפסקי דין וההוראות הרלוונטיים, פרקטיקות ונהלים בעת ביצוע חובותיו כאן.
-
-הלקוח מתחייב כי התקשרותו עם איי.אמ.אס טכנולוגיות לקבלת המוצרים והשירותים אינה דורשת הסכמת כל אדם או ישות. המשתמש מתחייב ומתחייב כי בכל עת במהלך תקופת ההתקשרות עם איי.אמ.אס טכנולוגיות, כל התוכנה, החומרה, הקודים, האלגוריתמים, הפיתוחים ו/או כל דבר אחר ("משאבים טכנולוגיים"), המשמש את הלקוח, הם בין אם ברישיון חוקי של הלקוח על ידי צדדים שלישיים ו/או פיתוח עצמי של הלקוח, ובכל דרך משמשים את הלקוח בהתאם ל-AUP זו וכל חוק. למען הסר ספק, איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות, אך לא החובה, לפי שיקול דעתה הבלעדי להסיר או לסרב לספק את המוצרים והשירותים במקרה של שימוש בלתי חוקי במשאבים טכנולוגיים, ללא פיצוי מכל סוג, כספי או אחר כלפי הלקוח. המשתמש מסכים כי עליו להעריך ולקחת את כל הסיכונים הקשורים לשימוש בכל תוכן ופעילות שלו.
-
-הלקוח יימנע מעשיית כל מצגים, הבטחות או ערבויות כלפי כל צד שלישי אחר בנוגע למפרטים, תכונות או יכולות של המוצרים והשירותים המסופקים על ידי איי.אמ.אס טכנולוגיות אשר אינם תואמים את הספרות, הפרוטוקולים, ההכשרות, ההסברים וההסכמים המסופקים על ידי איי.אמ.אס טכנולוגיות בכתב ללקוח.
-
-### 6. חקירות משפטיות
-
-הלקוחות ישתפו פעולה ויצייתו באופן מיידי לכל חקירה אזרחית או פלילית בנוגע לשימוש בחשבונם ו/או המוצרים והשירותים, כולל, ללא הגבלה, את ההוראות הבאות: צווי גילוי, זימונים, צווי הקפאה, צווי חיפוש, בקשות למידע, האזנות סתר, יירוטים אלקטרוניים ומעקב, בקשות שימור וכל צו אחר מבית משפט, ישות ממשלתית או סוכנות רגולטורית (כל אחד מהם "חקירה"). איי.אמ.אס טכנולוגיות עשויה, לפי שיקול דעתה הבלעדי, לחייב את הלקוח או כל אדם המבקש ציות לחקירה בעלויות וההוצאות הסבירות הקשורות לציות של איי.אמ.אס טכנולוגיות לכל חקירה כזו. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות לציית לכל חקירה ללא כל הודעה ללקוח. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות לחשוף מידע הקשור ללקוחות והשימוש שלהם בחשבון ו/או במוצרים והשירותים או מידע שנשלח, בבעלות או מאוחסן על ידי או מטעם כל לקוח, אם מידע כזה נחשף בקשר לחקירה או על מנת למנוע מוות או פגיעה גופנית לכל אדם, כפי שנקבע על ידי איי.אמ.אס טכנולוגיות לפי שיקול דעתה הבלעדי.
-
-### 7. תוצאות של הפרות AUP זו
-
-#### א.
-
-איי.אמ.אס טכנולוגיות עשויה לאכוף AUP זו, עם או בלי כל הודעה ללקוח, בכל פעולה שהיא רואה לנכון, לפי שיקול דעתה הבלעדי והבלעדי, כולל, ללא הגבלה:
-- להשעות או לסיים את חשבון הלקוח.
-- להשעות או לסיים את הגישה של הלקוח למוצרים והשירותים.
-- להסיר רשומות DNS מהשרתים.
-- לחסום דואר או כל שירות רשת אחר.
-- לבצע ניתוב לאפס של כתובות IP.
-- לחייב את הלקוח בעלויות ניהול ו/או דמי הפעלה מחדש.
-- לנקוט בפעולה משפטית כדי לאכוף הפרות ו/או לגבות נזקים, אם ישנם, שנגרמו על ידי הפרות.
-- לנקוט בכל פעולה משפטית נגד הלקוח לאכוף ציות ל-AUP זו ו/או לכל חוק רלוונטי.
-
-#### ב.
-
-אם כל לקוח משתמש במוצרים והשירותים בצורה שגורמת או עלולה לגרום לאיי.אמ.אס טכנולוגיות להיכנס ל"רשימה שחורה" או להיחסם, איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות הבלעדית והבלעדית להשעות לצמיתות או לסיים את המוצרים והשירותים של אותו לקוח.
-
-#### ג. הסרת חסימה
-
-אם, כתוצאה מפעולות הלקוח, שרתי הדואר או טווחי כתובות ה-IP של איי.אמ.אס טכנולוגיות מוצבים ברשימות חורים שחורים או מערכות סינון דואר אחרות, איי.אמ.אס טכנולוגיות תחייב את הלקוח 100 דולר מראש ו-100 דולר לשעה לאחר מכן עבור כל פעולות תיקון הנדרשות.
-
-#### ד.
-
-כל פעולות התיקון המפורטות בתנאים ו/או ב-AUP זו לא יפורשו בשום אופן כמגבלות על הפעולות או הסעדים שאיי.אמ.אס טכנולוגיות עשויה לנקוט כדי לאכוף ולהבטיח ציות ל-AUP זו ו/או לחוקים הרלוונטיים. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות לגבות כל הוצאות ולהחיל כל חיובים סבירים, בקשר להפרות של AUP זו על ידי הלקוח. לא יינתן החזר כספי או זיכויים על כל הפרעה בשירות הנובעת מהפרות AUP זו. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות בכל עת לחקור כל הפרה בפועל, חשד או טענה להפרות של AUP זו, עם חקירה כזו שכוללת גישה לנתונים ורשומות על, או הקשורים לכל שרת ו/או חשבון.
-
-### 8. דיווח על הפרות
-
-אם ישנה הפרה של AUP זו, אנא הפנה את המידע לצוות התמיכה של איי.אמ.אס טכנולוגיות בכתובת legal@ims-network.net.
-
-אם אפשר, אנא ספק את המידע הבא:
-- כתובת ה-IP שנעשה בה שימוש לביצוע ההפרה הנטענת.
-- התאריך והשעה של ההפרה הנטענת, כולל אזור הזמן או ההסטה מ-GMT.
-- ראיות להפרה הנטענת.
-
-דואר אלקטרוני עם כותרות מלאות מספק את כל המידע הנ"ל, כמו גם קובצי יומן מערכת. מצבים אחרים ידרשו שיטות שונות לספק את המידע הנ"ל.
