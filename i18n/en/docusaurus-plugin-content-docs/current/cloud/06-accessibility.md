@@ -1,31 +1,31 @@
 ---
 sidebar_position: 5
-title: מדיניות הנגישות
+title: Accessibility Policy
 ---
 
-## מחויבות לנגישות
+## Accessibility Commitment
 
-אנחנו ב-IMS - Cloud מחויבים להנגיש את התשתיות והשירותים שלנו לכלל המשתמשים, כולל אנשים עם מוגבלויות. המטרה שלנו היא להבטיח שכל משתמש, ללא קשר למוגבלות, יוכל ליהנות מחוויית שימוש נוחה, שוויונית ונטולת מכשולים.
+At IMS - Cloud, we are committed to making our infrastructure and services accessible to all users, including individuals with disabilities. Our goal is to ensure that every user, regardless of disability, can enjoy a comfortable, equal, and barrier-free experience.
 
-## מהי נגישות באינטרנט?
+## What is Web Accessibility?
 
-נגישות באינטרנט היא היכולת של אנשים עם מגוון רחב של מוגבלויות, כגון מוגבלויות בראייה, שמיעה, תנועה או למידה, להשתמש בשירותי האינטרנט שלנו בקלות ובנוחות. נגישות זו כוללת יכולת לגשת לתכנים, לבצע פעולות ולהשלים תהליכים בצורה פשוטה, תוך שימוש בממשק ידידותי למשתמש.
+Web accessibility refers to the ability of individuals with a wide range of disabilities, such as visual, hearing, motor, or learning impairments, to easily and comfortably use our online services. This accessibility includes the ability to access content, perform actions, and complete processes simply, using a user-friendly interface.
 
-## עמידה בתקנים
+## Compliance with Standards
 
-אנו פועלים על פי התקן הישראלי לנגישות אתרים (תקן 5568) המבוסס על הנחיות הנגישות הבינלאומיות של ה-W3C (WCAG 2.0). התקן מחולק ל-3 רמות: A, AA, ו-AAA, כאשר אנו שואפים לעמוד לפחות ברמה AA עבור כלל האתרים שלנו.
+We operate according to the Israeli Standard for Web Accessibility (Standard 5568), based on the international guidelines of the W3C (WCAG 2.0). The standard is divided into three levels: A, AA, and AAA, and we strive to meet at least level AA for all our websites.
 
-## התאמות שבוצעו
+## Implemented Adjustments
 
-1. שימוש בתוסף "נגיש לי" להנגשת האתר.
-2. תמיכה במקלדת לכל הפונקציות העיקריות באתר.
-3. שילוב אפשרויות הגדלת טקסט והתאמת צבעים עבור אנשים עם מוגבלות בראייה.
-4. תמיכה בתיאורים אלטרנטיביים לתמונות וטקסטים עבור קוראי מסך.
+1. Use of the "Nagish Li" plugin for website accessibility.
+2. Keyboard support for all main functions on the website.
+3. Integration of text enlargement and color adjustment options for individuals with visual impairments.
+4. Support for alternative descriptions for images and texts for screen readers.
 
-## איך נוכל לעזור?
+## How Can We Help?
 
-אם נתקלתם בקושי או בעיה כלשהי בשימוש בשירותים שלנו, נשמח לשמוע מכם ולטפל בכך בהקדם האפשרי. ניתן לפנות אלינו דרך טופס יצירת הקשר או לשלוח הודעה ישירות לדוא"ל שלנו: [כתובת דוא"ל].
+If you encounter any difficulty or problem while using our services, we would be happy to hear from you and address it as quickly as possible. You can contact us through the contact form or by sending an email directly to: [email address].
 
-## עדכונים ושיפורים
+## Updates and Improvements
 
-אנו מתחייבים להמשיך ולשפר את רמת הנגישות באתר ובשירותים שלנו באופן שוטף, על מנת להבטיח חוויית שימוש טובה ושווה לכולם.
+We are committed to continuously improving the level of accessibility on our website and services, ensuring a better and more equal user experience for everyone.
