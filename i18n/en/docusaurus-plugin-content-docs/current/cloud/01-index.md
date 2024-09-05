@@ -7,16 +7,10 @@ keywords:
     - Policy
 ---
 
-ב-IMS – Cloud, אנו מספקים פתרונות תשתית ענן, המותאמים לצרכים של ארגונים בכל גודל, עם דגש מיוחד על מפתחים ועסקים קטנים.  
-אנו מבינים שבעולם הדיגיטלי המהיר של היום, היכולת להתרחב במהירות ולהסתגל לשינויים היא קריטית.  
-לכן, הפלטפורמה שלנו מעוצבת כדי להציע משאבי מחשוב ענן עוצמתיים, גמישים ומאובטחים שיכולים לצמוח עם העסק שלכם, בין אם אתם סטארטאפ או ארגון מבוסס.
+At IMS – Cloud, we provide cloud infrastructure solutions tailored to the needs of organizations of all sizes, with a special emphasis on developers and small businesses.  
+We understand that in today's fast-paced digital world, the ability to scale quickly and adapt to changes is critical.  
+Therefore, our platform is designed to offer powerful, flexible, and secure cloud computing resources that can grow with your business, whether you are a startup or an established organization.
 
-## על פורטל המדיניות שלנו  
-פורטל המדיניות שלנו מספק לכם מידע מקיף ועדכני על כל ההנחיות, התקנות, והמדיניות המיושמות בפלטפורמת IMS – Cloud. כאן תוכלו למצוא את כל הפרטים הנדרשים על מדיניות השימוש, פרטיות, אבטחת מידע, והתאמה לדרישות רגולטוריות שונות.  
-אנו שואפים לשמור על שקיפות ולהבטיח שהלקוחות שלנו יוכלו לפעול בביטחון מלא בידיעה שכל הנתונים והמידע שלהם מוגנים בהתאם לסטנדרטים הגבוהים ביותר.  
-
-## תוכן עניינים
-- [פרטיות בענן](/docs/cloud/privacy)
-- [תנאי שימוש בענן](/docs/cloud/tos)
-- [SLA](/docs/cloud/sla)
-- [AUP](/docs/cloud/aup)
+## About Our Policy Portal  
+Our policy portal provides you with comprehensive and up-to-date information on all the guidelines, regulations, and policies implemented on the IMS – Cloud platform. Here you can find all the necessary details regarding usage policies, privacy, information security, and compliance with various regulatory requirements.  
+We strive to maintain transparency and ensure that our customers can operate with full confidence, knowing that all their data and information are protected in accordance with the highest standards.
