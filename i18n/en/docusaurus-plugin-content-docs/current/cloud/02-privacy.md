@@ -1,11 +1,12 @@
 ---
 sidebar_position: 2
-title: פרטיות בענן
-tags: [ענן, מדיניות]
+sidebar_position: 2
+title: Cloud Privacy
+tags: [Cloud, Policy]
 keywords:
-    - ענן
-    - מדיניות
-    - פרטיות
+    - Cloud
+    - Policy
+    - Privacy
 ---
 
 
