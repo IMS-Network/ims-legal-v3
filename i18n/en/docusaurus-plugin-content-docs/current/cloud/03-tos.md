@@ -8,25 +8,26 @@ keywords:
     - Terms of Service
 ---
 
-### 1. קבלת התנאים
+### 1. Acceptance of Terms
 
-על ידי כניסה, התחברות, גישה או שימוש באתר ([https://cloud.ims-network.net](https://cloud.ims-network.net), [https://platform.cloud.ims-network.net](https://platform.cloud.ims-network.net)) ו/או שימוש בכל אחד מהמוצרים והשירותים (כמוגדר להלן), אתה מאשר שקראת והבנת את תנאי השימוש הבאים, כולל את תנאי מדיניות הפרטיות שלנו, AUP ו-SLA (ביחד, "התנאים") ואתה מסכים להיות כפוף להם ולציית לכל החוקים והתקנות החלים בנוגע לשימוש שלך באתר ו/או במוצרים והשירותים. אתה מאשר שהתנאים הללו מהווים הסכם משפטי מחייב ובר-אכיפה בין איי.אמ.אס טכנולוגיות לבינך.
+By accessing, connecting to, or using the website ([https://cloud.ims-network.net](https://cloud.ims-network.net), [https://platform.cloud.ims-network.net](https://platform.cloud.ims-network.net)) and/or using any of the products and services (as defined below), you acknowledge that you have read, understood, and agree to be bound by the following terms of use, including our Privacy Policy, AUP, and SLA (collectively, the "Terms") and that you agree to comply with all applicable laws and regulations regarding your use of the website and/or products and services. You confirm that these Terms constitute a binding and enforceable legal agreement between IMS - Network and you.
 
-אם אינך מסכים לתנאים הללו, אנא אל תיכנס, תתחבר, תיגש או תשתמש באתר ו/או בכל אחד מהמוצרים והשירותים.
+If you do not agree to these Terms, please do not access, connect to, or use the website and/or any of the products and services.
 
-### 2. האתר
+### 2. The Website
 
-האתר מספק מידע מקיף לגבי איי.אמ.אס טכנולוגיות, המוצרים והשירותים ומשאבים כמו שאלות ותשובות, ויכול לכלול כל תוכן אחר הקשור לכך כגון פרטי קשר, סרטונים, טקסט, לוגואים, אייקונים, תמונות, אוספי נתונים, קישורים, תוכן מתמחה אחר, נתונים טכניים, מסמכים, ידע, חומרים, עיצובים, נתונים, "המראה והתחושה" של האתר, אלגוריתמים, קוד מקור ואובייקט, ממשק, GUI, תכונות אינטראקטיביות, גרפיקה, איורים, ציורים, אנימציות ותכונות אחרות שהושגו מהאתר או דרכו (ביחד, "התוכן").
+The website provides comprehensive information regarding IMS - Network, the products, and services, and resources such as FAQs, and may include any other related content such as contact information, videos, text, logos, icons, images, data collections, links, specialized content, technical data, documents, knowledge, materials, designs, data, the “look and feel” of the website, algorithms, source and object code, interface, GUI, interactive features, graphics, illustrations, animations, and other features obtained from or through the website (collectively, the "Content").
 
-התוכן באתר, כולל כל מידע, חומרים ונתונים, זמין לשימוש אישי בלבד.
+The content on the website, including all information, materials, and data, is available for personal use only.
 
-כל הזכויות בתוכן הזמין באתר שמורות לאיי.אמ.אס טכנולוגיות. ככל שהחוק מתיר, האתר והתוכן הזמין בו מסופקים כפי שהם ("AS IS"). איי.אמ.אס טכנולוגיות לא תהיה אחראית לכל נזק או הפסד שנגרם לך או לכל אדם אחר כתוצאה מהשימוש שלך באתר ו/או בשירותים ו/או בתוכן הזמין בו.
+All rights to the content available on the website are reserved to IMS - Network. To the extent permitted by law, the website and the content available on it are provided “as is.” IMS - Network shall not be liable for any damage or loss caused to you or any other person as a result of your use of the website and/or the services and/or the content available on it.
 
-השימוש שלך באתר ו/או בתוכן ו/או בשירותים הינו על אחריותך הבלעדית.
+Your use of the website, the content, and/or the services is solely at your own risk.
 
-### 3. המוצרים והשירותים
+### 3. Products and Services
 
-בכפוף ובכפיפות לתנאים, מדיניות הפרטיות, SLA ו-AUP, איי.אמ.אס טכנולוגיות תספק ללקוח/ים מוצרים ושירותים, כולל, בין היתר, שירותי תשתית ענן בעלות נמוכה, תחזוקה נמוכה, ביצועים גבוהים כמו שרתי ענן, אירוח אתרים בענן, CDN, DNS ועוד (ה-"מוצרים והשירותים").
+Subject to and in accordance with these Terms, the Privacy Policy, SLA, and AUP, IMS - Network will provide products and services to the customer(s), including, but not limited to, low-cost cloud infrastructure services, high-performance, low-maintenance cloud servers, cloud website hosting, CDN, DNS, and more (the "Products and Services").
+
 
 ### 4. רישום וחשבון לקוח
 
