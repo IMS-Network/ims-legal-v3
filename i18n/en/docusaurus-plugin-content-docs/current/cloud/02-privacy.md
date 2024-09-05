@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-sidebar_position: 2
 title: Cloud Privacy Policy
 tags: [Cloud, Policy]
 keywords:
