@@ -29,150 +29,99 @@ Your use of the website, the content, and/or the services is solely at your own 
 Subject to and in accordance with these Terms, the Privacy Policy, SLA, and AUP, IMS - Network will provide products and services to the customer(s), including, but not limited to, low-cost cloud infrastructure services, high-performance, low-maintenance cloud servers, cloud website hosting, CDN, DNS, and more (the "Products and Services").
 
 
-### 4. רישום וחשבון לקוח
+Continuing from section 10:
 
-אינך נדרש להיות בעל חשבון כדי להשתמש באתר. עם זאת, כדי לגשת למוצרים והשירותים דרך האתר, עליך להיות בעל חשבון עם פרטי כניסה.
+---
 
-כדי להשתמש במוצרים והשירותים, עליך להירשם וליצור חשבון (ה-"חשבון"). רישום ניתן לבצע על ידי השלמת תהליך ההרשמה באתר, הדורש ממך לספק לאיי.אמ.אס טכנולוגיות את שמך המלא, כתובת האימייל שלך, שם משתמש, סיסמה או כל מידע אחר כפי שאיי.אמ.אס טכנולוגיות תראה לנכון מעת לעת. ניתן גם להירשם על ידי הגשת טופס הזמנה חתום לאיי.אמ.אס טכנולוגיות.
+### 10. Acceptable Use Policy (AUP)
 
-החשבון שלך מוגן בסיסמה. כדי להגן על אבטחת המידע האישי שלך הזמין בחשבון שלך ככל האפשר, עליך לשמור ולא לחשוף את פרטי הכניסה לחשבון שלך ועליך לפקח על השימוש בחשבון זה. עליך לספק מידע מדויק ומלא בעת יצירת חשבון ואתה מסכים לא להציג בצורה כוזבת את זהותך או את פרטי החשבון שלך. אתה מסכים לשמור את פרטי החשבון שלך מעודכנים ומדויקים.
+Your use of the website and/or the products and services is subject to IMS - Network's standard Acceptable Use Policy ("AUP"), as in effect and available at: [https://cloud.ims-network.net/aup](https://cloud.ims-network.net/aup), and is subject to any amendments, modifications, or replacements that IMS - Network may apply from time to time. You agree to comply with all the provisions of the AUP.
 
-אתה האחראי הבלעדי והמלואי לשמירה על סודיות הסיסמה והחשבון ולכל הפעולות המתרחשות תחת החשבון שלך. אם אנו מאמינים בתום לב שיצרת חשבון המתחזה לאדם אחר, חשבון כזה עשוי לחשוף אותך לאחריות אזרחית ו/או פלילית.
+### 11. Special Provisions Regarding Third-Party Components
 
-אינך רשאי להקצות או להעביר את זכויותיך או להאציל את חובותיך במסגרת החשבון ללא הסכמה כתובה מראש של איי.אמ.אס טכנולוגיות. עליך להודיע לנו מיד על כל שימוש לא מורשה בחשבון שלך או כל הפרת אבטחה אחרת ובמקרים כאלה עליך לשנות את סיסמתך מיד דרך ההגדרות באתר או ליצור קשר עם התמיכה הטכנית שלנו. איננו יכולים ולא נהיה אחראים לכל אובדן או נזק הנובע מכישלונך לציית לתנאים אלו, כלומר אם מישהו אחר ניגש לחשבונך דרך המידע שנמסר לו על ידך או דרך הפרה על ידך של תנאים אלו, או לכל שימוש לא מורשה בסיסמתך או בחשבונך או לכל הפרת אבטחה אחרת.
+The website and/or the products and services may use or include third-party software, files, and components subject to third-party and open-source license terms ("Third-Party Components"). Your right to use the Third-Party Components as part of or in connection with the products and services is subject to any applicable disclosures and license terms accompanying such Third-Party Components. If there is a conflict between the third-party license terms and these Terms, the third-party license terms will govern solely with respect to the relevant Third-Party Components. These Terms do not apply to any Third-Party Components accompanying or included in the website and/or the products and services, and IMS - Network disclaims any responsibility related thereto. You acknowledge that IMS - Network is not the creator, owner, or licensor of any Third-Party Components, and IMS - Network makes no representations or warranties, express or implied, regarding the quality, capabilities, operations, performance, or suitability of any Third-Party Components.
 
-אם ברצונך לשנות את שם המשתמש או הסיסמה שלך לכניסה למוצרים והשירותים או לבטל ולהסיר את חשבונך, אנא שלח לנו אימייל עם בקשתך ל: [support@imsnetwork.com](mailto:support@imsnetwork.com).
+### 12. Availability of Products and Services
 
-ביטול החשבון שלך, מכל סיבה שהיא, עשוי לגרום לאובדן מידע ונתונים מסוימים שהיו מאוחסנים בחשבונך ו/או למידע שסיפקת לנו. איננו מקבלים כל אחריות על אובדן כזה.
+The availability and performance of the products and services depend on various factors and are subject to IMS - Network's Service Level Agreement ("SLA") available at: [https://cloud.ims-network.net/sla](https://cloud.ims-network.net/sla), as it may be modified or updated by IMS - Network from time to time.
 
-### 5. תשלום
+IMS - Network makes no representation or warranty that the products and services will operate or be available at all times without interruption or disruption, or that they will be immune from unauthorized access or errors, all subject to the SLA.
 
-הלקוח/ים ישלמו לאיי.אמ.אס טכנולוגיות את העמלות המפורטות באתר ו/או בטופס ההזמנה הזמין בכתובת: [https://cloud.ims-network.net/](https://cloud.ims-network.net/). התשלום עבור העמלות יתאפשר רק באמצעות כרטיס אשראי או הוראת קבע. אנו עשויים להוסיף או לשנות את שיטות התשלום לפי שיקול דעתנו הבלעדי. אם חיובים מעובדים במטבע שאינו המטבע שפורסם, שער ההמרה של החשבונית הראשונה יוגדר כשער ההמרה המינימלי של כל החשבוניות העתידיות. כל הלקוחות המקומיים בישראל יחויבו במטבע המקומי שקל (ILS) לפי שער החליפין של בנק לאומי לצ'קים / העברות – מכירה. למרות האמור לעיל, שער החליפין לא יפחת מ-3.70 שקל ל-1.00 דולר ולא יעלה על 4.30 שקל ל-1.00 דולר, בתוספת מע"מ ישראלי מקומי ישים. על כל הנ"ל, יתווסף 2% מסכום החשבונית, עבור דמי ניהול.
+### 13. Changes to the Website and Products and Services
 
-המוצרים והשירותים מחויבים אוטומטית על בסיס חודשי חוזר. אם אושרת לתקופת ניסיון חינם או כל הצעת קידום מכירות, אתה מתבקש לדעת שלאחר תום תקופת הניסיון או הקידום, השירותים ייחשבו כחיובים אלא אם תפסיק את כל השרתים או השירותים הפעילים מחשבונך.
+IMS - Network reserves the exclusive right to modify, change, enhance, replace, suspend, or discontinue, temporarily or permanently, from time to time, at its sole discretion, all or any part of the website and/or products and services.
 
-מעת לעת, בשל (i) שינויים במחירים שאינם קשורים לאיי.אמ.אס טכנולוגיות, כגון שינויים בשיעורי המס, שיעורי החשמל, שיעורי הרישוי של צדדים שלישיים ו/או אחר, ו/או (ii) מכל סיבה לפי שיקול דעתה הבלעדי של איי.אמ.אס טכנולוגיות, איי.אמ.אס טכנולוגיות שומרת לעצמה במפורש את הזכות לשנות ולשנות את מחירים ועמלות בכל עת, ושינויים או שינויים כאלה יפורסמו לכתובות הלקוחות ויכנסו לתוקף מיד. למניעת ספק, אם הלקוח רכש או השיג מוצרים ושירותים לתקופה ארוכה, כגון מספר חודשים או שנים, שינויים או שינויים במחירים ובתשלומים יכנסו לתוקף מיד עם החלטת איי.אמ.אס טכנולוגיות על שינויים כאלה. איי.אמ.אס טכנולוגיות תעדכן את לקוחותיה בהתאם לפי שיקול דעתה, באמצעות אימייל ו/או בחשבונית.
+### 14. Disclaimer of Warranties
 
-הלקוח מסכים לקבל עדכונים על שינויים בתנאי ההתקשרות, כולל, בין היתר, תנאים מסחריים, תנאי שירות, או כל תנאי אחר, באמצעות אימייל, או עם החשבונית התקופתית, כפי שיקבע על ידי איי.אמ.אס טכנולוגיות.
+Subject to the SLA, we do not warrant (I) that the use and operation of the website and/or account and/or products and services will be secure, accurate, complete, uninterrupted, error-free, or free of viruses, defects, worms, harmful components, or other software limitations, (II) that IMS - Network will correct any errors or defects in the website and/or services, (III) any representation regarding the use, inability to use or operate, or the results of the use of the website and/or account and/or products and services and/or the content available on or through the website and/or account and/or products and services. IMS - Network and IMS - Network representatives disclaim any warranties and conditions with respect to the use of the website and/or account and/or products and services, including but not limited to availability, reliability, or quality, and will not be responsible for any error, fault, or mistake related to any content and information displayed within the website and/or account and/or products and services.
 
-במקרה שהלקוח שילם מקדמה מראש לאיי.אמ.אס טכנולוגיות, אם הלקוח לא ישתמש במקדמה זו לקבלת שירותים מאיי.אמ.אס טכנולוגיות לפחות 6 חודשים, איי.אמ.אס טכנולוגיות תגבה מהלקוח 2% מהמקדמה בכל חודש, ולאחר 30 חודשים, המקדמה תימחק, והלקוח לא יוכל להשתמש בה לשירותי איי.אמ.אס טכנולוגיות.
+We are not responsible and shall have no liability for any item or service provided by any person or entity other than IMS - Network.
 
-על ידי מסירת כרטיס אשראי, אתה מאשר במפורש לאיי.אמ.אס טכנולוגיות לחייב את אמצעי התשלום הנ"ל במרווחים קבועים בהתאם למנוי הספציפי שלך. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות להתקשר עם צד שלישי לעיבוד כל התשלומים. צדדים שלישיים כאלה עשויים להטיל תנאים והגבלות נוספים בנוגע לעיבוד תשלומים. מידע על הלקוח לא יועבר מאיי.אמ.אס טכנולוגיות לכל צד שלישי לצורכי קידום מכירות או שיווק.
+We are not responsible for any consequence to you or others that may result from technical issues (including, without limitation, in connection with the internet such as slow connections, traffic congestion, overload of servers, delays, or interruptions) or any telecommunications or internet providers.
 
-הלקוח ישלם גם לאיי.אמ.אס טכנולוגיות את כל ההוצאות שהוציאה איי.אמ.אס טכנולוגיות במימוש כל אחת מזכויותיה על פי התנאים או הדין החל בנוגע לגביית אי תשלום, כולל שכר טרחת עורכי דין, הוצאות משפט ודמי סוכנות גבייה.
+You agree that the use of the website and/or account and/or products and services is at your sole risk.
 
-כל המחירים והעמלות אינם ניתנים להחזר אלא אם צוין אחרת במפורש, גם אם המוצרים והשירותים הושהו או הופסקו לפני תום תקופת המוצרים והשירותים.
+In some jurisdictions, limitations or exclusions of certain warranties may not apply, and in such cases, the exclusions above may not apply to the full extent.
 
-למרות כל האמור לעיל, אי תשלום כל אחד מהעמלות של הלקוח מהווה הפרה מהותית של התנאים על ידי הלקוח. למניעת ספק, איי.אמ.אס טכנולוגיות לא תספק ללקוח כל מוצרים ושירותים עד לתשלום מלא וסופי של כל העמלות הלא מיושבות או הלא משולמות.
+### 15. Limitation of Liability
 
-### 6. מדיניות פרטיות
+To the maximum extent permitted by law, in no event shall IMS - Network and its representatives be liable for: (i) any direct, indirect, incidental, special, consequential, or exemplary damages, or loss of profits or revenues, arising from the use of the products and services by the customer or any third party or any failure of the products and services; or (ii) any data loss or damage, including any data loss resulting from delays, non-deliveries, misdeliveries, service interruptions, IMS - Network's failure, server failure, operating system installation, or negligence by IMS - Network. The customer is solely responsible for maintaining, backing up, and archiving all data in its possession, control, or that the customer transmits to IMS - Network or any server owned or operated by IMS - Network.
 
-אנו מכבדים את פרטיותך ומתחייבים להגן על המידע שאתה משתף איתנו. אנו מאמינים שיש לך זכות לדעת את נוהגינו לגבי המידע שאנו אוספים כאשר אתה מתחבר, ניגש או משתמש באתר ו/או במוצרים והשירותים. המדיניות והנהלים שלנו וסוג המידע שנאסף מתוארים בפירוט במדיניות הפרטיות שלנו בכתובת: [https://cloud.ims-network.net/privacy](https://cloud.ims-network.net/privacy) המשולבת כאן בהפניה. אם בכוונתך להתחבר, לגשת או להשתמש באתר ו/או במוצרים והשירותים עליך לקרוא תחילה ולהסכים למדיניות הפרטיות.
+In no event shall IMS - Network's cumulative liability under these Terms and the SLA exceed (i) USD 5,000 or (ii) the total amount actually paid by the customer to IMS - Network in the twelve (12) months preceding such a claim.
 
-### 7. זכויות קניין רוחני
+IMS - Network provides all products and services "as is," without any warranties, express or implied, and disclaims all implied warranties, including, but not limited to, the implied warranties of merchantability or fitness for a particular purpose.
 
-האתר, המוצרים והשירותים, התוכן, הנכסים הקנייניים של החברה וכל זכויות הקניין הרוחני הקשורות אליהם, כולל, בין היתר, המצאות, פטנטים ובקשות לפטנטים, סימני מסחר, שמות מסחריים, סימני שירות, חומרים ניתנים לזכויות יוצרים, וסודות מסחריים, בין אם רשומים או ניתנים לרישום (ביחד, "קניין רוחני"), בבעלות איי.אמ.אס טכנולוגיות ו/או ברישיון של איי.אמ.אס טכנולוגיות ומוגנים על ידי חוקי זכויות יוצרים וזכויות קניין רוחני אחרים ואמנות והסכמים בינלאומיים. כל הזכויות שלא הוענקו לך במפורש כאן שמורות לאיי.אמ.אס טכנולוגיות ולבעלי הרישיון שלה.
+The customer is solely responsible for the selection, use, and suitability of the products and services for its needs, and IMS - Network will have no responsibility for that.
 
-התנאים אינם מעניקים לך עניין בקניין הרוחני של איי.אמ.אס טכנולוגיות אלא רק זכות שימוש מוגבלת והפיכה בהתאם לתנאים. שום דבר בתנאים אינו מהווה ויתור על זכויות הקניין הרוחני של איי.אמ.אס טכנולוגיות על פי כל חוק.
+No claim may be brought by the customer against IMS - Network more than two (2) years after the event that gave rise to such a claim.
 
-### 8. סימני מסחר ושמות מסחריים
+The customer acknowledges and agrees that receiving service credits as stated in the SLA constitutes the customer's sole and exclusive remedy. Notwithstanding anything to the contrary herein and subject to the SLA, IMS - Network will not compensate the customer nor will it be liable to the customer in the event of (1) lack of hard disk space on servers; (2) firewall malfunction; and (3) denial of service attack (DoS Attack) or distributed denial of service attack (DDoS Attack).
 
-"איי.אמ.אס טכנולוגיות", סימני איי.אמ.אס טכנולוגיות, לוגואים וסימנים מזהים אחרים המשמשים את החברה בקשר לשירותים ("סימני איי.אמ.אס טכנולוגיות") הם כולם סימני מסחר ו/או שמות מסחריים של החברה, בין אם רשומים ובין אם לאו. כל הסימנים המסחריים, סימני השירות, השמות המסחריים והלוגואים האחרים שעשויים להופיע באתר ו/או בשירותים שייכים לבעליהם המתאימים ("סימני צד שלישי"). לא ניתנת לך כאן זכות, רישיון או עניין בסימני איי.אמ.אס טכנולוגיות וסימני צד שלישי, ואתה מסכים שלא להצהיר על כל זכות, רישיון או עניין כזה לגבי סימני איי.אמ.אס טכנולוגיות או סימני צד שלישי ולכן תמנע משימוש באחד מהסימנים הללו.
+You will not sue, and waive any right to sue, for any other damages, including consequential, lost profits, special, indirect, or incidental damages, from us and IMS - Network representatives.
 
-### 9. קישורים לאתרי צד שלישי
+In some jurisdictions, the exclusions or limitations set forth above may not apply to their full extent.
 
-קישורים מסוימים המסופקים כאן מאפשרים ללקוחותינו לעזוב את האתר הזה ולהיכנס לאתרים או שירותים של צדדים שלישיים. אתרים ושירותים מקושרים אלה מסופקים אך ורק לנוחותך. אתרים ושירותים מקושרים אלה אינם בשליטת איי.אמ.אס טכנולוגיות ואינה אחראית לזמינות של אתרים או שירותים חיצוניים כאלה, ואינה מאשרת ואינה אחראית או נושאת באחריות לכל תוכן פרסום, מוצרים או מידע אחר המוצעים באתרים ושירותים מקושרים כאלה או כל קישור הכלול באתרים או שירותים מקושרים. הגישה שלך, השימוש שלך והסתמכותך על אתרים, שירותים ותוכן כאלה, והעסקאות שלך עם צדדים שלישיים כאלה, הן על אחריותך והוצאותיך בלבד. איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות להפסיק כל קישור בכל עת. אתה מאשר ומסכים עוד כי איי.אמ.אס טכנולוגיות לא תהיה אחראית או נושאת באחריות, במישרין או בעקיפין, לכל נזק או הפסד שנגרם או נטען כי נגרם, על ידי או בקשר לשימוש או הסתמכות על כל שירותים, תוכן, מוצרים או חומרים אחרים הזמינים באתרים או משאבים מקושרים כאלה. רוב האתרים והשירותים המקושרים מספקים מסמכים משפטיים, כולל תנאי שימוש ומדיניות פרטיות, המסדירים את השימוש בהם. תמיד מומלץ לקרוא מסמכים כאלה בקפידה לפני השימוש באתרים ושירותים אלה, בין היתר, כדי לדעת איזה סוג של מידע עליך נאסף.
 
-### 10. כללי השימוש
+### 16. Backup Policy
 
-השימוש שלך באתר ו/או במוצרים והשירותים כפוף למדיניות השימוש המקובלת הסטנדרטית של איי.אמ.אס טכנולוגיות ("AUP"), כפי שהיא בתוקף וזמינה בכתובת: [https://cloud.ims-network.net/aup](https://cloud.ims-network.net/aup) וכפוף לכל השינויים, השינויים וההחלפות שאיי.אמ.אס טכנולוגיות עשויה להחיל מעת לעת. אתה מתחייב לציית לכל ההוראות של AUP.
+Any backup of customer data is not, and cannot be, guaranteed by IMS - Network. IMS - Network explicitly encourages the customer(s) to independently run periodic backups of their data, either by themselves or through third parties not affiliated with IMS - Network. For the avoidance of doubt, as the customer, you are responsible for backing up your own data, either on-site or off-site.
 
-### 11. הוראות מיוחדות לגבי רכיבים של צד שלישי
+IMS - Network assumes no responsibility for any failure of backups, data loss, or data integrity. If any of your data is damaged, deleted, lost, corrupted in any way, or becomes inaccessible due to the termination or suspension of your account as per these Terms and/or the AUP, IMS - Network will not be obligated or liable to you.
 
-האתר ו/או המוצרים והשירותים עשויים להשתמש או לכלול תוכנה, קבצים ורכיבים של צד שלישי הכפופים לתנאי רישיון של קוד פתוח וצד שלישי ("רכיבי צד שלישי"). זכותך להשתמש ברכיבי צד שלישי כחלק מהמוצרים והשירותים או בקשר אליהם כפופה לכל הודאות ותנאי רישיון החלים המלווים רכיבי צד שלישי כאלה, הכלולים בהם או הקשורים אליהם. אם יש סתירה בין תנאי הרישיון של רכיבי צד שלישי כאלה לבין התנאים הללו, תנאי הרישיון של רכיבי צד שלישי יגברו בקשר לרכיבי צד שלישי הנוגעים. תנאים אלה אינם חלים על רכיבי צד שלישי המלווים או הכלולים באתר ו/או במוצרים והשירותים ואיי.אמ.אס טכנולוגיות מסירה כל אחריות בקשר לכך. אתה מאשר כי איי.אמ.אס טכנולוגיות אינה המחבר, הבעלים או המעניק רישיון של כל רכיבי צד שלישי, ואיי.אמ.אס טכנולוגיות אינה מתחייבת ואינה מצהירה, במפורש או במשתמע, לגבי האיכות, היכולות, הפעולות, הביצועים או ההתאמה של רכיבי צד שלישי.
+In no event shall IMS - Network be liable to the customer or any third party for any damages resulting from the customer's use of the services or any malfunction related to the provision of services, including but not limited to direct, indirect, special, incidental, or consequential damages resulting from any breach of warranty, breach of contract, negligence, strict liability in tort, or any other legal theory resulting from the customer’s use of the services or in connection with the services, including any amount for lost profits, data, or goodwill, whether or not such damages or losses were foreseeable, even if the company was advised of the possibility of such damages. The customer agrees to maintain, at its sole expense throughout the term of the agreement, any necessary insurance for potential damages, including data loss insurance, cyber insurance, and third-party insurance.
 
-### 12. זמינות המוצרים והשירותים
+In any event, the company’s maximum liability under this agreement shall be limited to an amount equal to the service fees received by the company in the actual month before the date of any claim arising in connection with this agreement, subject to the final judicial determination regarding the company’s liability.
 
-זמינות וביצועי המוצרים והשירותים תלויים בגורמים שונים, וכפופים להסכם רמת השירות של איי.אמ.אס טכנולוגיות ("SLA") הזמין בכתובת: [https://cloud.ims-network.net/sla](https://cloud.ims-network.net/sla) כפי שהוא עשוי להשתנות או להתעדכן על ידי איי.אמ.אס טכנולוגיות מעת לעת.
+### 17. Indemnification
 
-איי.אמ.אס טכנולוגיות אינה מתחייבת או מבטיחה שהמוצרים והשירותים יפעלו ו/או יהיו זמינים בכל עת ללא הפרעה או שיבוש, או שיהיו חסינים מפני גישה לא מורשית או טעויות, הכל בכפוף ל-SLA.
+You agree to defend, indemnify, and hold harmless IMS - Network and IMS - Network representatives from any claim, damage, liability, loss, cost, debt, and expense (including but not limited to attorney’s fees) arising from: (i) your use, misuse, inability to use, and/or activities in connection with the website and/or the account and/or the products and services and/or the content; (ii) your breach of any of these Terms, the AUP, and/or any applicable law; (iii) your violation of any third-party rights, including without limitation any intellectual property rights or privacy rights of such third party in connection with your use of the products and services; and (iv) any damage of any kind, whether direct, indirect, special, or consequential, that you may cause to any third party in connection with the website and/or the account and/or the products and services. This obligation to defend and indemnify will survive these Terms.
 
-### 13. שינויים באתר ובמוצרים והשירותים
+Without limiting the foregoing, we reserve the right to assume the exclusive defense and control of any matter subject to indemnification by you, which shall not relieve you of your indemnification obligations hereunder, and in such cases, you agree to cooperate with us in defending such claims. You agree not to settle any matter subject to indemnification by you without obtaining our prior express written consent.
 
-איי.אמ.אס טכנולוגיות שומרת לעצמה את הזכות הבלעדית לתקן, לשנות, לשפר, להחליף, להשעות, להפסיק, זמנית או לצמיתות, מעת לעת, לפי שיקול דעתה הבלעדי, את כל או כל חלק מהאתר ו/או המוצרים והשירותים.
+### 18. Amendments to the Terms
 
-### 14. כתב ויתור על אחריות
+IMS - Network may, at its sole discretion, change these Terms from time to time, including any policy incorporated herein, including, without limitation, the AUP, SLA, and Privacy Policy. Please review this page frequently. In the event of a material change, we will endeavor to post a clear notice on the website and/or send you an email (provided you have supplied us with such an email address) regarding the change. Such material changes will take effect 48 hours after such notice was posted on our website and/or sent via email, whichever is earlier. Otherwise, any other changes to these Terms will take effect as of the "Last Updated" date, and your continued use of the website and/or products and services on or after the "Last Updated" date will constitute acceptance and agreement to be bound by those changes. If the Terms, AUP, SLA, and/or Privacy Policy are amended to comply with legal requirements, the changes may take effect immediately or as required by law without any prior notice.
 
-בכפוף ל-SLA, איננו מתחייבים (I) שהשימוש והתפעול של האתר ו/או החשבון ו/או המוצרים והשירותים הם או יהיו מאובטחים, מדויקים, שלמים, ללא הפרעות, ללא טעויות, או נטולי וירוסים, פגמים, תולעים, רכיבים מזיקים אחרים או מגבלות תוכנה אחרות, (II) שאיי.אמ.אס טכנולוגיות תתקן כל טעויות או פגמים באתר ו/או בשירותים, (III) תיתן כל הצהרה לגבי השימוש, חוסר היכולת להשתמש או לפעול, או התוצאות של השימוש באתר ו/או בחשבון ו/או במוצרים והשירותים ו/או בתוכן הזמין בו או דרך האתר ו/או החשבון ו/או המוצרים והשירותים. איי.אמ.אס טכנולוגיות ונציגי איי.אמ.אס טכנולוגיות מסירים כל אחריות ותנאים ביחס לשימוש באתר ו/או בחשבון ו/או במוצרים והשירותים, כולל אך לא מוגבל לזמינות, אמינות או איכות האתר ו/או החשבון ו/או המוצרים והשירותים, ואינם ולא יהיו אחראים לכל שגיאה, פגם או טעות הקשורים לכל תוכן ומידע המוצגים באתר ו/או בחשבון ו/או במוצרים והשירותים.
+### 19. Termination or Suspension of Your Account
 
-איננו אחראים ואין לנו אחריות על כל פריט או שירות המסופקים על ידי כל אדם או ישות מלבד איי.אמ.אס טכנולוגיות.
+These Terms will remain in effect until terminated as described herein.
 
-איננו אחראים לכל תוצאה לך או לאחרים שעשויה להיגרם מבעיות טכניות (כולל, ללא הגבלה, בהקשר לאינטרנט כגון חיבור איטי, עומס תנועה, עומס יתר על שרתים, עיכובים או הפרעות) או כל ספקי תקשורת או אינטרנט.
+The period outlined in each Order Form and/or registration page on the website (the “Term”) begins on the date of customer registration and will end with 30 days' prior written notice by either party (the “Notice Period”). The customer acknowledges and agrees that, notwithstanding the foregoing, termination by the customer shall not take effect during any monthly billing cycle but shall take effect at the end of the applicable monthly billing cycle.
 
-אתה מסכים שהשימוש באתר ו/או בחשבון ו/או במוצרים והשירותים הוא על אחריותך הבלעדית.
+Notwithstanding the foregoing, IMS - Network may, at its sole and absolute discretion, immediately terminate the products and services and/or any engagement with the customer for any breach of these Terms and/or the Privacy Policy and/or the SLA and/or the AUP and/or applicable law by the customer.
 
-ככל שיש תחומי שיפוט שאינם מתירים את ההחרגות או ההגבלות המפורטות כאן, יתכן וההחרגות וההגבלות הנ"ל לא יחולו במלואן.
+For the avoidance of doubt, in the event of the termination of the products and services under this section for any reason, the customer will bear the sole and full responsibility to transfer all customer materials and data from IMS - Network to a new entity as instructed by the customer; and shall immediately pay IMS - Network any outstanding fees.
 
-### 15. הגבלת אחריות
+Without limiting the generality of the foregoing, the sections on Intellectual Property, Disclaimer of Warranties, Limitation of Liability, Indemnification, and General Provisions will survive the termination of the Terms.
 
-לכדי המידה החוקית המותרת, בשום מקרה לא יהיו איי.אמ.אס טכנולוגיות ונציגי איי.אמ.אס טכנולוגיות אחראים ל-(i) כל נזקים ישירים, עקיפים, מקריים, מיוחדים או תוצאתיים, או לאובדן רווחים או הכנסות הנובעים מהשימוש במוצרים והשירותים על ידי הלקוח או כל צד שלישי או כל כישלון של המוצרים והשירותים; או (ii) כל אובדן נתונים או פגיעה בנתונים, כולל אובדן נתונים הנובע מעיכובים, אי-העברות, משלוחים שגויים, הפרעות שירות, כישלון של איי.אמ.אס טכנולוגיות, נטילת שרתים על ידי איי.אמ.אס טכנולוגיות, כישלון שרתים, התקנת מערכת הפעלה או תוכנה אחרת על שרת או רשלנות של איי.אמ.אס טכנולוגיות. הלקוח הוא האחראי הבלעדי לשמירה, גיבוי וארכיון של כל הנתונים בבעלותו, בשליטתו או שהועברו על ידי הלקוח הנמצאים אצל איי.אמ.אס טכנולוגיות או על כל שרת בבעלות או בהפעלת איי.אמ.אס טכנולוגיות.
+Additionally, IMS - Network may, at any time, at its sole and absolute discretion, cease operating the products and services or any part thereof, temporarily or permanently. You acknowledge and agree that IMS - Network shall not be liable in connection with, or in relation to, the termination of the website and/or account and/or products and services and the loss of any data.
 
-בשום מקרה לא תהיה אחריות מצטברת של איי.אמ.אס טכנולוגיות על פי תנאים אלה ו-SLA גבוהה מ-(i) 5,000 דולר אמריקאי; או (ii) הסכום המצטבר ששולם בפועל על ידי הלקוח לאיי.אמ.אס טכנולוגיות ב-12 החודשים הקודמים לתביעה כזו.
+We note that we may suspend access to your account if we believe, in our sole discretion, that one (or more) of the following events has occurred: (a) there is a risk to the security or privacy of your account; (b) there is a threat to the security or integrity of our network or servers; (c) suspension is required to protect the rights, property, or safety of IMS - Network, its users, or the public; (d) there is a reason for the termination of your account; (e) you have violated these Terms, the Privacy Policy, the AUP, and/or applicable law; and/or (f) we are required by law. We may provide you with notice in the event of such suspension. During such a suspension, you will not be able to use or access your account and/or the products and services. If we determine, in our sole discretion, that the reason for the suspension of your account has been resolved, we will restore access to your account.
 
-איי.אמ.אס טכנולוגיות מספקת את כל המוצרים והשירותים כפי שהם ("AS IS"), ללא כל אחריות, בין אם מפורשת או משתמעת, ומסירה כל אחריות משתמעת, כולל, אך לא מוגבל לאחריות משתמעת לסחירות או התאמה למטרה מסוימת.
+### 20. General
 
-הלקוח יהיה האחראי הבלעדי לבחירת, שימוש והתאמת המוצרים והשירותים לצרכי הלקוח ולאיי.אמ.אס טכנולוגיות לא תהיה כל אחריות לכך.
+(a) These Terms constitute the entire agreement between the parties regarding the subject matter hereof and supersede any prior or contemporaneous agreements or understandings, written or oral, between the parties, (b) any claim relating to the website and/or the products and services shall be governed and construed in accordance with the laws of the State of Israel without regard to its conflict of laws principles, (c) any dispute arising out of or relating to the website and/or services shall be brought to the competent courts of the Tel Aviv District, Israel. You agree to waive any defenses of lack of personal jurisdiction and inconvenient forum and agree that service of process may be made in the manner permitted by applicable law or court rule. Notwithstanding the foregoing, IMS - Network may seek injunctive relief in any court of competent jurisdiction, (d) these Terms do not and shall not be construed to create any partnership, joint venture, employer-employee, agency, or franchisor-franchisee relationship between the parties, (e) no waiver by any party of any breach or default hereunder shall be deemed a waiver of any preceding or subsequent breach or default, (f) any heading, caption, or section title contained herein is inserted only as a matter of convenience and in no way defines or explains any section or provision hereof, (g) you acknowledge and agree that any cause of action that you may have arising out of or related to the website and/or services must commence within one (1) year after the cause of action accrues. Otherwise, such cause of action is permanently barred, (h) if any provision hereof is held by any court of competent jurisdiction to be unenforceable, such provision shall be limited or eliminated to the minimum extent necessary so that these Terms shall remain in full force and effect, and (i) you may not assign or transfer these Terms (including all rights and obligations hereunder) without our prior written consent, and any attempt to do so in violation of the foregoing shall be void. We may assign or transfer these Terms without restriction or notice.
 
-שום תביעה לא תוגש על ידי הלקוח נגד איי.אמ.אס טכנולוגיות יותר משנתיים (2) לאחר התאריך של האירוע שהוביל לכל תביעה כזו.
+### 21. Information, Questions, or Notification of Errors
 
-הלקוח מאשר ומסכים שקבלת קרדיט שירות כמצוין ב-SLA מהווה תרופה בלעדית וייחודית של הלקוח, ולמרות כל האמור כאן ובכפוף ל-SLA, איי.אמ.אס טכנולוגיות לא תפצה את הלקוח ולא תהיה אחראית ללקוח במקרה של (1) חוסר מקום דיסק קשיח בשרתים; (2) תקלה בחומת האש; ו-(3) התקפת מניעת שירות (DOS Attack) או התקפת מניעת שירות מבוזרת (DDOS Attack).
-
-אתה לא תתבע, ומוותר על כל זכות לתבוע, כל נזקים אחרים, כולל נזקים תוצאתיים, אובדן רווחים, נזקים מיוחדים, עקיפים או מקריים מאיתנו ומנציגי איי.אמ.אס טכנולוגיות.
-
-ככל שיש תחומי שיפוט שאינם מתירים את ההחרגות או ההגבלות המפורטות כאן, יתכן וההחרגות וההגבלות הנ"ל לא יחולו במלואן.
-
-### 16. מדיניות גיבוי
-
-כל גיבוי לנתוני הלקוח אינו, ואינו יכול להיות, מובטח על ידי איי.אמ.אס טכנולוגיות. איי.אמ.אס טכנולוגיות מעודדת במפורש את הלקוח/ים להריץ, בעצמם או על ידי צדדים שלישיים שאינם איי.אמ.אס טכנולוגיות, גיבויים תקופתיים של הנתונים שלהם. למניעת ספק, כלקוח, אתה אחראי לגיבוי הנתונים שלך בעצמך או בכל מיקום אחר מחוץ לאתר.
-
-איי.אמ.אס טכנולוגיות אינה נושאת באחריות לכל כשל בגיבויים, אובדן נתונים או שלמות נתונים. אם כל אחד מהנתונים שלך ניזוק, נמחק, אבד או נפגע בכל דרך שהיא, או הופך לבלתי זמין עקב סיום או השעיית חשבונך בהתאם לתנאים אלה ו/או AUP, איי.אמ.אס טכנולוגיות לא תהיה מחויבת או אחראית כלפיך.
-
-בשום מקרה לא תהיה איי.אמ.אס טכנולוגיות אחראית ללקוח או לכל צד שלישי על כל נזק הנובע משימוש הלקוח בשירותים או מכל תקלה הקשורה למתן השירותים, כולל אך לא מוגבל לנזקים ישירים, עקיפים, מיוחדים, מקריים או תוצאתיים, הנובעים מכל הפרת אחריות נטענת, הפרת חוזה, רשלנות, חבות קפידה בנזיקין, או כל תיאוריה משפטית אחרת כתוצאה משימוש הלקוח בשירותים או בקשר לשירותים, כולל כל סכום לאובדן רווחים, נתונים או מוניטין, בין אם הנזקים או ההפסדים היו צפויים או לא, גם אם החברה הוזהרה באפשרות נזקים כאלה. הלקוח מתחייב לשמור, על חשבונו הבלעדי לאורך כל תקופת ההסכם, את כל הביטוחים הנדרשים לנזקים אפשריים, כולל ביטוח לאובדן נתונים, ביטוח סייבר וביטוח צד שלישי.
-
-בכל מקרה, האחריות המרבית של החברה במסגרת הסכם זה תהיה מוגבלת לסכום שווה לדמי השירות שקיבלה החברה בפועל חודש אחד (1) לפני תאריך כל תביעה הנובעת בקשר להסכם זה, בכפוף להחלטה הסופית של הגוף השיפוטי המוסמך בנוגע לאחריות החברה.
-
-### 17. שיפוי
-
-אתה מסכים להגן, לשפות ולהחזיק את איי.אמ.אס טכנולוגיות ונציגי איי.אמ.אס טכנולוגיות מכל תביעה, נזק, התחייבות, הפסדים, עלויות, חובות והוצאות (כולל אך לא מוגבל לשכר טרחת עורכי דין) הנובעים מ: (i) השימוש, השימוש השגוי, חוסר היכולת להשתמש ו/או פעילויות בקשר לאתר ו/או החשבון ו/או המוצרים והשירותים ו/או התוכן; (ii) הפרתך של כל אחד מהתנאים, ה-AUP ו/או כל חוק חל; (iii) הפרתך של זכויות צד שלישי כלשהן, כולל ללא הגבלה זכויות קניין רוחני או זכויות פרטיות של צד שלישי כזה בקשר לשימושך במוצרים והשירותים; ו-(iv) כל נזק מכל סוג שהוא, בין אם ישיר, עקיף, מיוחד או תוצאתי, שתגרום לכל צד שלישי בקשר לאתר ו/או לחשבון ו/או למוצרים והשירותים. מובהר בזאת שחובת ההגנה והשיפוי הזו תשרוד את התנאים הללו.
-
-ללא לגרוע מהאמור לעיל, אנו שומרים לעצמנו את הזכות ליטול על עצמנו את ההגנה הבלעדית והשליטה בכל עניין שהוא כפוף לשיפוי על ידך, מה שלא יפטור את חובות השיפוי שלך כאן, ובמקרה כזה תשתף פעולה באופן מלא איתנו בהגנה על כל טענה זמינה. אתה מסכים לא להתפשר על כל עניין הכפוף לשיפוי על ידך מבלי לקבל את אישורנו המפורש והכתוב מראש.
-
-### 18. תיקונים לתנאים
-
-איי.אמ.אס טכנולוגיות עשויה, לפי שיקול דעתה הבלעדי, לשנות תנאים אלה מעת לעת, כולל כל מדיניות אחרת המשולבת בהם, כולל, ללא הגבלה, ה-AUP, SLA ומדיניות הפרטיות, לכן אנא בקר מחדש בדף זה לעתים קרובות. במקרה של שינוי מהותי, נשתדל לפרסם הודעה ברורה באתר ו/או נשלח לך אימייל (במידה שסיפקת לנו כתובת אימייל כזו) לגבי השינוי. שינויים מהותיים כאלה ייכנסו לתוקף 48 שעות לאחר שנמסרה הודעה כזו באתר שלנו ו/או נשלחה דרך אימייל, המוקדם מביניהם. אחרת, כל שינויים אחרים לתנאים אלה יחולו מיום ה-"עודכן לאחרונה" המוצהר ושימושך המתמשך באתר ו/או במוצרים והשירותים ביום או לאחר תאריך ה-"עודכן לאחרונה" יהווה קבלה והסכמה להיות כפוף לאותם שינויים. במקרה שהתנאים, ה-AUP, ה-SLA ו/או מדיניות הפרטיות ישונו לצורך התאמה לדרישות חוקיות כלשהן, השינויים עשויים להיכנס לתוקף מיד או כפי שנדרש על פי החוק וללא כל הודעה מוקדמת.
-
-### 19. סיום או השעיית החשבון שלך
-
-תנאים אלה יישארו בתוקף עד לסיומם כפי שמתואר כאן.
-
-התקופה המפורטת בכל אחד מטופס ההזמנה ו/או דף ההרשמה באתר (ה-"תקופה") נחשבת לתחילת מהתאריך של רישום הלקוח ותסתיים בהודעה מוקדמת של 30 יום מראש על ידי כל אחד מהצדדים (ה-"תקופת ההודעה"). הלקוח מסכים ומאשר כי למרות האמור לעיל, סיום על ידי הלקוח אינו חל במהלך מחזור חיוב חודשי אלא סיום כזה על ידי הלקוח ייכנס לתוקף בסוף מחזור החיוב החודשי הרלוונטי.
-
-למרות האמור לעיל, איי.אמ.אס טכנולוגיות תהיה רשאית, לפי שיקול דעתה הבלעדי והמוחלט, לסיים באופן מיידי את המוצרים והשירותים ו/או כל התקשרות עם הלקוח בכל הפרה של הלקוח של תנאים אלה ו/או מדיניות הפרטיות ו/או SLA ו/או AUP ו/או החוק החל.
-
-למניעת ספק, במקרה של סיום המוצרים והשירותים בהתאם לסעיף זה 20, מכל סיבה שהיא, הלקוח יישא באחריות הבלעדית והמלאה להעברת כל החומרים והנתונים של הלקוח מאיי.אמ.אס טכנולוגיות לישות חדשה כפי שיורה הלקוח; וישלם מיד לאיי.אמ.אס טכנולוגיות כל העמלות הלא משולמות.
-
-ללא להגביל את הכלליות של האמור לעיל, סעיפי הקניין הרוחני, כתב הוויתור על אחריות, הגבלת אחריות, שיפוי וכללי ישרדו את סיום התנאים.
-
-בנוסף, איי.אמ.אס טכנולוגיות עשויה בכל עת, לפי שיקול דעתה הבלעדי והמוחלט, להפסיק את פעולת המוצרים והשירותים או כל חלק מהם, זמנית או לצמיתות. אתה מסכים ומאשר שאיי.אמ.אס טכנולוגיות אינה נושאת באחריות בקשר לכך, או בקשר לסיום פעולת האתר ו/או החשבון ו/או המוצרים והשירותים ואובדן כל נתון.
-
-אנו מציינים כי נוכל להשעות את הגישה לחשבונך אם אנו מאמינים, לפי שיקול דעתנו הבלעדי, שאירע אחד (או יותר) מהאירועים הבאים: (א) קיים סיכון לאבטחת או פרטיות חשבונך; (ב) קיימת איום על האבטחה או השלמות של הרשת או השרתים שלנו; (ג) ההשעיה נדרשת להגנה על הזכויות, הרכוש או הבטיחות של איי.אמ.אס טכנולוגיות, משתמשיה או הציבור; (ד) קיימת סיבה לסיום חשבונך; (ה) הפרת את תנאים אלה, מדיניות הפרטיות, AUP ו/או החוק החל; ו/או (ו) אנו נדרשים על פי חוק. אנו עשויים לספק לך הודעה במקרה של כל השעיה כזו. במהלך השעיה כזו, לא תהיה לך היכולת להשתמש או לגשת לחשבונך ו/או למוצרים והשירותים. במקרה שנקבע, לפי שיקול דעתנו הבלעדי, שהסיבה להשעיה של הגישה לחשבונך נפתרה, נשחזר את הגישה לחשבונך.
-
-### 20. כללי
-
-(א) תנאים אלה מהווים את כל התנאים וההגבלות בין הצדדים בנוגע לנושא כאן ומבטלים כל הסכמים או הבנות קודמות או עכשוויות, כתובות או בעל פה, בין הצדדים, (ב) כל תביעה הנוגעת לאתר ו/או למוצרים והשירותים הכלולים בו תישלט ותפורש בהתאם לחוקי מדינת ישראל מבלי להתייחס לעקרונות הסכסוך של החוקים שלה, (ג) כל סכסוך הנובע או הקשור לאתר ו/או לשירותים יובא לבית המשפט המוסמך של מחוז תל אביב, ישראל. אתה מסכים לוותר על כל הגנות של חוסר סמכות אישית ומקום לא נוח ומסכים שניתן לשרת את התהליך באופן המורשה על פי החוק החל או כלל בית המשפט. למרות האמור לעיל, איי.אמ.אס טכנולוגיות עשויה לבקש סעד זמני בכל בית משפט מוסמך, (ד) תנאים אלה אינם יוצרים ולא יפורשו ליצירת כל מערכת יחסים, שותפות, מיזם משותף, עובד-מעביד, סוכן, או מערכת יחסים של זיכיון-מזכה בין הצדדים, (ה) שום ויתור על ידי אף צד על כל הפרה או מחדל כאן לא ייחשב כוויתור על כל הפרה או מחדל קודם או שלאחר מכן. כל כותרת, כיתוב או כותרת סעיף הכלולים כאן מוכנסים רק לנוחות ואין הם מגדירים או מסבירים כל סעיף או הוראה כאן, (ו) אתה מאשר ומסכים שכל עילת תביעה שעשויה להיות לך הנובעת או קשורה לאתר ו/או לשירותים חייבת להתחיל בתוך שנה אחת (1) לאחר עילת התביעה. אחרת, עילת תביעה כזו נגרמת באופן קבוע, (ז) אם כל הוראה כאן תוכרע על ידי כל בית משפט מוסמך כבלתי ניתנת לאכיפה, אותה הוראה תוגבל או תבוטל למינימום הנדרש כך שתנאים אלה
-
-להעביר תנאים אלה (כולל כל הזכויות והחובות כאן) ללא הסכמה כתובה מראש שלנו וכל ניסיון לעשות כן בניגוד לאמור לעיל יהיה בטל. אנו רשאים להקצות או להעביר תנאים אלה ללא מגבלה או הודעה. (ט) שום תיקון כאן לא יהיה מחייב אלא אם כן בכתב ונחתם על ידי איי.אמ.אס טכנולוגיות, ו-(י) הצדדים מסכימים שכל ההתכתבויות הנוגעות לתנאים אלה ייכתבו בשפה האנגלית.
-
-### 21. למידע, שאלות או הודעה על טעויות
-
-אם יש לך שאלות (או הערות) או הבהרות בנוגע לתנאים ו/או למוצרים והשירותים, אתה מוזמן לשלוח לנו אימייל ואנו נשתדל להשיב בתוך זמן סביר: [legal@ims-network.net](mailto:legal@ims-network.net).
+If you have any questions (or comments) or require clarifications regarding the Terms and/or the products and services, you are welcome to send us an email, and we will try to respond within a reasonable timeframe: [legal@ims-network.net](mailto:legal@ims-network.net).
