@@ -274,5 +274,17 @@
   "sidebar.isoSidebar.category.A5 בקרות ארגוניות": {
     "message": "A5 בקרות ארגוניות",
     "description": "The label for category A5 בקרות ארגוניות in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A6 בקרת עובדים": {
+    "message": "A6 בקרת עובדים",
+    "description": "The label for category A6 בקרת עובדים in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A7 בקרת פיזית": {
+    "message": "A7 בקרת פיזית",
+    "description": "The label for category A7 בקרת פיזית in sidebar isoSidebar"
+  },
+  "sidebar.isoSidebar.category.A8 בקרות טכנולוגיות": {
+    "message": "A8 בקרות טכנולוגיות",
+    "description": "The label for category A8 בקרות טכנולוגיות in sidebar isoSidebar"
   }
 }
