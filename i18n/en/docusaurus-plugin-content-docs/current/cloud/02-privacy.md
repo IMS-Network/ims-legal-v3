@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_position: 2
-title: Cloud Privacy
+title: Cloud Privacy Policy
 tags: [Cloud, Policy]
 keywords:
     - Cloud
@@ -9,61 +9,60 @@ keywords:
     - Privacy
 ---
 
+This Privacy Notice describes how we collect and process your personal information in connection with the services provided by IMS - Network through our cloud. These services include our platform, cloud identity services, and technical support services (collectively, the "Cloud Services").
 
-הודעת פרטיות זו מתארת כיצד אנחנו אוספים ומעבדים את המידע האישי שלך בהקשר לשירותים הניתנים על ידי איי.אמ.אס טכנולוגיות באמצעות הענן שלנו. השירותים כוללים את הפלטפורמה שלנו, שירותי זהות בענן, ושירותי יישום ותמיכה טכנית (ביחד, "שירותי הענן").
+We offer our Cloud Services directly to our customers or through authorized partners. When we refer to our customers in this notice, this also includes partners and their customers.
 
-אנו מציעים את שירותי הענן שלנו ללקוחותינו ישירות או באמצעות שותפים מורשים. כאשר אנו מתייחסים ללקוחותינו בהודעה זו, הכוונה כוללת גם את השותפים ואת לקוחותיהם.
+If the data privacy laws of the European Union, the United Kingdom, or Switzerland apply to the processing of your information, you can refer to the section ‘European Privacy Standards and the GDPR’ below to learn about your rights and our compliance with these legal requirements.
 
-אם חוקים להגנת פרטיות הנתונים של האיחוד האירופי, בריטניה או שווייץ חלים על עיבוד המידע שלך, תוכל לעיין בסעיף 'סטנדרטים לפרטיות באירופה וה-GDPR' למטה כדי ללמוד על הזכויות שלך ועל העמידה שלנו בדרישות חוקים אלו.
+## Information We Collect and Process
 
-## המידע שאנו אוספים ומעבדים
+Our cloud processes customer, partner, and service information in order to provide the Cloud Services. This Privacy Notice applies only to Service Information and does not apply to Customer or Partner Information. We explain below what we mean by "[Service Information](#Service-Information-Defined)".
 
-הענן שלנו מעבד מידע של לקוחות, שותפים ומידע על שירותים לצורך אספקת שירותי הענן. הודעת פרטיות זו חלה רק על מידע השירות ואינה חלה על מידע הלקוחות או השותפים. נסביר להלן מה אנו מתכוונים ב"[מידע שירות](#%D7%9E%D7%99%D7%93%D7%A2-%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA-%D7%9B%D7%95%D7%9C%D7%9C)". 
+Customer and Partner Information is defined in our agreements with our customers and represents the data that you and our customers provide for processing in the Cloud Services. For more details on how we process Customer and Partner Information, please review the Cloud Data Processing Addendum (Customers) and the Cloud Data Processing Addendum (Partners).
 
-מידע הלקוחות והשותפים מוגדר בהסכמים עם לקוחותינו ומייצג את הנתונים שאתה והלקוחות שלנו מספקים לצורך עיבוד בשירותי הענן. למידע נוסף על אופן עיבודנו את מידע הלקוחות והשותפים, עיין בתוספת עיבוד נתוני הענן (לקוחות) ובתוספת עיבוד נתוני הענן (שותפים).
+Service Information is the personal data that our cloud collects or generates during the provision and management of services, excluding Customer and Partner Information.
 
-מידע שירות הוא המידע האישי שהענן שלנו אוסף או יוצר במהלך מתן השירותים והניהול שלהם, למעט מידע הלקוחות והשותפים.
+### Service Information includes:
 
-### מידע השירות כולל:
+- **Account Information:** We collect the information you or your organization provide when creating an account for the Cloud Services or signing an agreement with us (such as username, names, contact details, and job titles).
+- **Cloud Payments and Transactions:** We maintain reasonable records of charges, payments, and billing details and related issues.
+- **Cloud Settings and Configurations:** We document your settings and configurations, including resource identifiers, features, and security settings.
+- **Technical and Operational Details of Your Use of the Cloud Services:** We collect information regarding your usage, operational status, software bugs, crash reports, authentication details, quality and performance metrics, and other technical information necessary for the operation and maintenance of the Cloud Services.
+- **Direct Communication with Us:** We retain records of your communications and interactions with us and our partners (for example, when you provide feedback, ask questions, or request technical support).
 
-- **מידע על חשבון:** אנו אוספים את המידע שאתה או הארגון שלך מספקים בעת יצירת חשבון לשירותי הענן או חתימה על הסכם איתנו (כגון שם משתמש, שמות, פרטי קשר ותארי עבודה).
-- **תשלומים ועסקאות בענן:** אנו שומרים רשומות סבירות של חיובים, תשלומים ופרטי חיוב ונושאים קשורים.
-- **הגדרות ותצורות בענן:** אנו מתעדים את התצורה וההגדרות שלך, כולל מזהי משאבים ומאפיינים, והגדרות שירות ואבטחה.
-- **פרטים טכניים ותפעוליים על השימוש שלך בשירותי הענן:** אנו אוספים מידע על השימוש שלך, מצב תפעולי, תקלות תוכנה ודיווחי קריסה, פרטי אימות, מדדי איכות וביצועים, ופרטים טכניים אחרים הנדרשים לצורך תפעול ותחזוקה של שירותי הענן.
-- **תקשורת ישירה שלך איתנו:** אנו שומרים רשומות של התקשורת והאינטראקציות שלך איתנו ועם השותפים שלנו (למשל, כאשר אתה מספק משוב, שואל שאלות או מבקש תמיכה טכנית).
+## Why We Process Service Information
 
-## למה אנחנו מעבדים את מידע השירות
+Our cloud processes Service Information for the following purposes:
 
-הענן שלנו מעבד את מידע השירות למטרות הבאות:
+- **To Provide the Cloud Services You Requested:** We use Service Information primarily to provide the Cloud Services you and our customers request. This includes processing Service Information as necessary to conduct pre-credit checks for certain customers, charge for the Cloud Services used, ensure that services function as intended, identify and resolve technical issues or other problems, and secure your data and services.
+- **To Improve Your Use of the Cloud Services:** We use Service Information to offer you and our customers recommendations (e.g., how to improve account or data security, reduce service costs, enhance performance, or optimize your configurations).
+- **To Maintain and Improve the Cloud Services:** We assess Service Information to enhance the performance and functionality of the Cloud Services. As we improve the Cloud Services for you, we also enhance them for our customers and vice versa.
+- **To Protect You, Other Users, Customers, the Public, and Our Cloud:** We use Service Information to identify, prevent, and respond to fraud, abuse, security risks, and technical issues that may harm you, other users, our customers, the public, or our cloud. This helps us make our services more secure and reliable.
+- **To Comply with Our Legal Obligations:** We use Service Information to meet our legal obligations (for example, when we are required to respond to legal requests or enforceable governmental requests or to meet our financial record-keeping obligations).
 
-- **לספק את שירותי הענן שביקשת:** אנו משתמשים במידע השירות בעיקר כדי לספק את שירותי הענן שאתה והלקוחות שלנו מבקשים. זה כולל עיבוד מידע שירות לפי הצורך כדי לבצע בדיקות לפני הענקת אשראי ללקוחות מסוימים, לחייב עבור שירותי הענן בהם נעשה שימוש, לוודא שהשירותים פועלים כמתוכנן, לזהות ולהימנע מתקלות טכניות או בעיות אחרות, ולהבטיח את אבטחת הנתונים והשירותים שלך.
-- **לשפר את השימוש שלך בשירותי הענן:** אנו משתמשים במידע השירות כדי לספק לך וללקוחותינו המלצות (למשל, כיצד לשפר את אבטחת החשבון או הנתונים, להפחית עלויות שירות או לשפר את הביצועים, או לשפר את התצורות שלך).
-- **לשמר ולשפר את שירותי הענן:** אנו מעריכים את מידע השירות כדי לשפר את הביצועים והפונקציונליות של שירותי הענן. תוך שיפור שירותי הענן עבורך, נשפר אותם גם עבור לקוחותינו ולהפך.
-- **להגן עליך, על המשתמשים, הלקוחות, הציבור והענן שלנו:** אנו משתמשים במידע השירות כדי לזהות, למנוע ולענות על הונאות, ניצול לרעה, סיכוני אבטחה ובעיות טכניות שעלולות להזיק לך, למשתמשים אחרים, ללקוחותינו, לציבור או לענן שלנו. זה עוזר להפוך את השירותים שלנו לבטוחים ואמינים יותר.
-- **לעמוד בהתחייבויות החוקיות שלנו:** אנו משתמשים במידע השירות כדי לעמוד בהתחייבויות החוקיות שלנו (למשל, כאשר אנו נדרשים להשיב לבקשות משפטיות או לבקשות ממשלתיות ניתנות לאכיפה, או לקיים את חובות ניהול הרישומים הפיננסיים שלנו).
+## Where We Store Service Information
 
-## איפה נשמר מידע השירות
+We store Service Information on servers located in data centers worldwide. Service Information may be processed on servers outside the country where our users and customers are located.
 
-אנו שומרים את מידע השירות בשרתים הממוקמים במרכזי נתונים ברחבי העולם. מידע השירות עשוי להיות מעובד בשרתים הממוקמים מחוץ למדינה בה נמצאים המשתמשים והלקוחות שלנו.
+Regardless of where Service Information is processed, we apply the same safeguards described in this Privacy Notice. When we transfer Service Information outside of the European Economic Area, the United Kingdom, or Switzerland, we do so under certain legal frameworks.
 
-לא משנה היכן מעובד מידע השירות, אנו מיישמים את אותם אמצעי הגנה המתוארים בהודעת פרטיות זו. כאשר אנו מעבירים מידע שירות מחוץ לאזור הכלכלי האירופי, בריטניה או שווייץ, אנו פועלים בהתאם למסגרות חוקיות מסוימות.
+## How We Secure Service Information
 
-## כיצד אנו מאבטחים את מידע השירות
+We build our cloud services with robust security features to protect your information. We strive to safeguard the Service Information we hold against unauthorized access, alteration, disclosure, or destruction, including:
 
-אנחנו בונים את שירותי הענן שלנו עם מאפייני אבטחה חזקים כדי להגן על המידע שלך. אנו שואפים להגן על מידע השירות שברשותנו מפני גישה, שינוי, גילוי או השמדה בלתי מורשים, כולל באמצעות:
+- Encryption of Service Information at rest and during transmission between our facilities.
+- Regular reviews of our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems.
+- Limiting access to Service Information to IMS - Network employees, contractors, and agents who need it to process the Service Information on our behalf.
 
-- הצפנה של מידע השירות בזמן מנוחה ובזמן מעבר בין מתקנינו.
-- בדיקה סדירה של פרקטיקות איסוף, אחסון ועיבוד מידע השירות, כולל אמצעי אבטחה פיזיים, כדי למנוע גישה בלתי מורשית למערכות שלנו.
-- הגבלת הגישה למידע השירות לעובדי איי.אמ.אס טכנולוגיות, קבלנים וסוכנים הזקוקים לו לצורך עיבוד מידע השירות עבורנו.
+## How We Share Service Information
 
-## כיצד אנו משתפים את מידע השירות
+We do not share Service Information with companies, organizations, or individuals outside IMS - Network except in the following cases:
 
-אנחנו לא משתפים מידע שירות עם חברות, ארגונים או יחידים מחוץ לאיי.אמ.אס טכנולוגיות למעט במקרים הבאים:
+- **When Purchasing Third-Party Services:** We share Service Information with trusted service providers to process the information for us, based on this Privacy Notice and appropriate confidentiality and security measures.
+- **With Your Consent:** We will share Service Information with external parties when we have received your explicit consent to do so.
+- **To Comply with Legal Requirements:** We share Service Information outside of IMS - Network when we believe in good faith that access or disclosure of the Service Information is necessary to comply with legal requirements, regulations, legal processes, or enforceable governmental requests.
 
-- **בעת רכישת שירותים מצד שלישי:** אנו משתפים מידע שירות עם ספקי שירותים מהימנים לצורך עיבוד המידע עבורנו ובהתאם להודעת פרטיות זו ואמצעי סודיות ואבטחה מתאימים.
-- **בהסכמתך:** אנו נשתף מידע שירות עם צדדים חיצוניים במקרים בהם קיבלנו את הסכמתך המפורשת לכך.
-- **לצורך עמידה בדרישות החוק:** אנו משתפים מידע שירות מחוץ לאיי.אמ.אס טכנולוגיות כאשר אנו מאמינים בתום לב שגישה או גילוי של מידע השירות נחוצים כדי לעמוד בדרישות החוק, תקנה, תהליך משפטי או בקשה ממשלתית ניתנת לאכיפה.
+## Regional Privacy Protections
 
-## הגנה על פרטיותך באזורים שונים
-
-אנו מחויבים לעמידה בדרישות הפרטיות האזוריות בשווקים השונים בהם אנו פועלים. אנחנו מספקים לך כלים ומשאבים מותאמים לאזורי השוק השונים בהם פועל הענן שלנו.
+We are committed to complying with regional privacy regulations in the various markets in which we operate. We provide you with tools and resources tailored to the different regions where our cloud operates.
