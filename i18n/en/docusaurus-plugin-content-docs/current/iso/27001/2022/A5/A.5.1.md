@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: A.5.1 Information Security Policy
+title: A.5.1 Policies for information security
 ---
 
 ## Purpose
