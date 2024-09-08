@@ -1,45 +1,45 @@
 ---
 sidebar_position: 1
-title: A.5.1 מדיניות לאבטחת מידע
+title: A.5.1 Information Security Policy
 ---
 
-## מטרה
-מטרת הנוהל היא להבטיח כי הארגון יגדיר, יישם, ויתחזק מדיניות לאבטחת מידע אשר תתמוך בניהול סיכוני האבטחה ותשמור על סודיות, שלמות, וזמינות המידע הארגוני.
+## Purpose
+The purpose of this procedure is to ensure that the organization defines, implements, and maintains an information security policy that supports security risk management and preserves the confidentiality, integrity, and availability of organizational information.
 
-## תחום יישום
-הנוהל חל על כל הארגון, לרבות כל יחידות הארגון וכל מערכות המידע שלו.
+## Scope
+This procedure applies to the entire organization, including all organizational units and information systems.
 
-## הגדרות
-- **מדיניות אבטחת מידע:** מסמך המגדיר את העקרונות וההנחיות המרכזיות לניהול אבטחת המידע בארגון.
-- **אבטחת מידע:** שמירה על סודיות, שלמות וזמינות של מידע בהתאם לדרישות העסקיות, המשפטיות, והרגולטוריות.
+## Definitions
+- **Information Security Policy:** A document outlining the core principles and guidelines for managing information security within the organization.
+- **Information Security:** The preservation of confidentiality, integrity, and availability of information, in line with business, legal, and regulatory requirements.
 
-## אחריות
-- **הנהלת הארגון:** אחראית על אישור, פרסום, והפצה של מדיניות אבטחת המידע.
-- **ממונה אבטחת מידע:** אחראי על פיתוח, עדכון ותחזוקה של מדיניות אבטחת המידע, וכן על ווידוא יישום המדיניות בכל יחידות הארגון.
-- **כל עובדי הארגון:** מחויבים לפעול בהתאם למדיניות אבטחת המידע ולהשתתף בהדרכות ובהכשרות הנדרשות.
+## Responsibility
+- **Organization Management:** Responsible for approving, publishing, and distributing the information security policy.
+- **Information Security Officer:** Responsible for developing, updating, and maintaining the information security policy, as well as ensuring its implementation across all organizational units.
+- **All Organization Employees:** Required to comply with the information security policy and participate in required training and education.
 
-## תהליך
-### 1. פיתוח מדיניות אבטחת מידע
-- ממונה אבטחת מידע יפתח מדיניות אבטחת מידע אשר תתבסס על הערכת סיכונים ותכלול את הנושאים הבאים:
-  - עקרונות מרכזיים לאבטחת מידע.
-  - מטרות האבטחה והנחיות כלליות לניהול סיכונים.
-  - חובות וזכויות של עובדי הארגון בנוגע לאבטחת מידע.
-  - הנחיות לגבי ניהול אירועי אבטחת מידע.
+## Process
+### 1. Developing the Information Security Policy
+- The Information Security Officer will develop a policy based on risk assessment, including the following topics:
+  - Core principles of information security.
+  - Security objectives and general guidelines for risk management.
+  - Responsibilities and rights of employees regarding information security.
+  - Guidelines for managing information security incidents.
 
-### 2. אישור מדיניות אבטחת מידע
-- הנהלת הארגון תאשר את המדיניות ותוודא כי היא מתאימה לצרכים העסקיים ולדרישות הרגולטוריות של הארגון.
+### 2. Approving the Information Security Policy
+- The organization's management will approve the policy and ensure it meets the business needs and regulatory requirements of the organization.
 
-### 3. פרסום והפצת מדיניות אבטחת מידע
-- המדיניות תופץ לכל עובדי הארגון, ותהיה זמינה לעיון באמצעות פורטל הארגון או בכל אמצעי אחר שיקבע.
-- ייערכו הדרכות והכשרות על המדיניות החדשה או המעודכנת לכלל העובדים.
+### 3. Publishing and Distributing the Information Security Policy
+- The policy will be distributed to all employees and made available for review through the organization’s portal or other designated methods.
+- Training and education on the new or updated policy will be provided to all employees.
 
-### 4. תחזוקה ועדכון של מדיניות אבטחת מידע
-- ממונה אבטחת מידע יבצע סקירה תקופתית של המדיניות, ויעדכן אותה בהתאם לשינויים בסיכונים, דרישות עסקיות, רגולטוריות, וטכנולוגיות.
-- כל שינוי במדיניות יובא לאישור ההנהלה, ולאחר מכן יופץ לכלל עובדי הארגון.
+### 4. Maintaining and Updating the Information Security Policy
+- The Information Security Officer will periodically review the policy and update it according to changes in risks, business needs, regulations, and technologies.
+- Any policy changes will be submitted for management approval and then communicated to all employees.
 
-### 5. בקרה ובקרה
-- הארגון יבצע ביקורות תקופתיות על יישום מדיניות אבטחת המידע, על מנת לוודא כי היא מתקיימת כראוי וכי העובדים מודעים לה ומשתמשים בה בפועל.
+### 5. Monitoring and Control
+- The organization will conduct periodic audits of the implementation of the information security policy to ensure it is properly enforced and that employees are aware of and comply with it.
 
-## הערות
-- הארגון יבצע הערכת סיכונים תקופתית, על מנת להבטיח כי מדיניות אבטחת המידע מכסה את כל הסיכונים הרלוונטיים.
-- כל עובד בארגון מחויב לדווח על כל הפרה של מדיניות אבטחת המידע לממונה אבטחת מידע.
+## Notes
+- The organization will conduct regular risk assessments to ensure that the information security policy addresses all relevant risks.
+- All employees are required to report any breach of the information security policy to the Information Security Officer.
