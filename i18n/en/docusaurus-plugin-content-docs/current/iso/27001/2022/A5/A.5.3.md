@@ -1,53 +1,53 @@
 ---
 sidebar_position: 3
-title: A.5.3 הפרדת תפקידים
+title: A.5.3 Segregation of Duties
 ---
 
-## מטרה
-מטרת הנוהל היא להבטיח כי תפקידים הקשורים לאבטחת מידע ולניהול מערכות המידע יופרדו בצורה מתאימה, על מנת למנוע ניגודי עניינים, להקטין את הסיכון לשגיאות או להונאות, ולהבטיח חלוקת אחריות אפקטיבית.
+## Purpose
+The purpose of this procedure is to ensure that roles related to information security and information systems management are appropriately segregated to prevent conflicts of interest, reduce the risk of errors or fraud, and ensure effective distribution of responsibilities.
 
-## תחום יישום
-הנוהל חל על כל תהליכי העבודה בארגון, לרבות פיתוח, תחזוקה ותפעול של מערכות מידע, ניהול סיכונים, וטיפול באירועי אבטחת מידע.
+## Scope
+This procedure applies to all work processes within the organization, including the development, maintenance, and operation of information systems, risk management, and handling of information security incidents.
 
-## הגדרות
-- **הפרדת תפקידים:** חלוקת משימות ואחריות בין מספר אנשים או תפקידים, כך שאף אדם אחד לא יהיה אחראי על כל התהליך מתחילתו ועד סופו.
-- **ניגוד עניינים:** מצב שבו אדם בעל סמכות או אחריות מסוימת עלול להיות מונע על ידי אינטרסים אישיים או זרים העלולים לפגוע בהחלטותיו הארגוניות.
+## Definitions
+- **Segregation of Duties:** The division of tasks and responsibilities among multiple individuals or roles so that no single person is responsible for the entire process from start to finish.
+- **Conflict of Interest:** A situation where an individual with authority or responsibility may be influenced by personal or external interests, potentially compromising organizational decisions.
 
-## אחריות
-- **הנהלת הארגון:**
-  - אחראית על קביעת מדיניות להפרדת תפקידים והבטחת יישומה.
-  - מספקת את המשאבים הנדרשים כדי להבטיח הפרדת תפקידים בצורה אפקטיבית.
+## Responsibility
+- **Organization Management:**
+  - Responsible for establishing a segregation of duties policy and ensuring its implementation.
+  - Provides the necessary resources to ensure effective segregation of duties.
   
-- **ממונה אבטחת מידע:**
-  - אחראי על פיתוח, ניהול ופיקוח על הפרדת התפקידים בארגון.
-  - מוודא כי קיימת הפרדה מספקת בין תפקידים קריטיים לצורך הפחתת סיכונים.
+- **Information Security Officer:**
+  - Responsible for developing, managing, and supervising the segregation of duties within the organization.
+  - Ensures sufficient segregation between critical roles to mitigate risks.
   
-- **מנהלי יחידות:**
-  - אחראים על יישום מדיניות הפרדת תפקידים ביחידותיהם.
-  - מוודאים כי עובדים מבצעים את תפקידם בהתאם להנחיות הפרדת התפקידים.
+- **Unit Managers:**
+  - Responsible for implementing the segregation of duties policy in their units.
+  - Ensure that employees perform their roles according to segregation guidelines.
   
-- **עובדי הארגון:**
-  - מחויבים לפעול בהתאם להנחיות הפרדת התפקידים ולדווח על כל ניגוד עניינים אפשרי.
+- **Organizational Employees:**
+  - Required to act in accordance with the segregation of duties guidelines and report any potential conflicts of interest.
 
-## תהליך
-### 1. זיהוי תפקידים ותהליכים קריטיים
-- הארגון יזהה את התפקידים והתהליכים הקריטיים הנדרשים להפרדת תפקידים, כולל תחומים בהם עשוי להיות ניגוד עניינים או ריכוז סמכויות מסוכן.
+## Process
+### 1. Identifying Critical Roles and Processes
+- The organization will identify critical roles and processes where segregation of duties is required, particularly in areas prone to conflicts of interest or dangerous concentrations of authority.
 
-### 2. חלוקת משימות ואחריות
-- הממונה על אבטחת המידע, יחד עם הנהלת הארגון, יבטיחו כי משימות ואחריות יתחלקו בין מספר תפקידים או אנשים, בהתאם לצורך, כדי למנוע ריכוז סמכויות מסוכן.
+### 2. Task and Responsibility Allocation
+- The Information Security Officer, along with organizational management, will ensure that tasks and responsibilities are divided among multiple roles or individuals, as needed, to prevent dangerous concentrations of authority.
 
-### 3. בקרות והגנה
-- הארגון יקים בקרות ואמצעי בקרה כדי לוודא כי ההפרדה בין תפקידים נשמרת, כולל מערכות לניטור ובדיקה של יישום ההנחיות.
+### 3. Controls and Safeguards
+- The organization will establish controls and monitoring mechanisms to ensure that segregation of duties is maintained, including systems to monitor and verify the implementation of these guidelines.
 
-### 4. הכשרה והדרכה
-- הארגון יספק הכשרה והדרכה לעובדים על מדיניות הפרדת תפקידים, כולל הסבר על החשיבות והיתרונות של הפרדת תפקידים.
+### 4. Training and Education
+- The organization will provide training and education to employees regarding the segregation of duties policy, including the importance and benefits of maintaining this separation.
 
-### 5. בקרה ובקרה
-- ממונה אבטחת המידע יבצע ביקורות תקופתיות לוודא כי ההנחיות להפרדת תפקידים מיושמות בפועל.
+### 5. Monitoring and Review
+- The Information Security Officer will conduct periodic audits to ensure that segregation of duties guidelines are being followed.
 
-### 6. דיווח חריגות
-- כל עובד או מנהל בארגון מחויב לדווח על כל חשד לניגוד עניינים או הפרה של מדיניות הפרדת תפקידים לממונה אבטחת המידע.
+### 6. Reporting Exceptions
+- Any employee or manager is required to report any suspicion of conflicts of interest or breaches of the segregation of duties policy to the Information Security Officer.
 
-## הערות
-- הארגון יבצע הערכות תקופתיות של תהליכי הפרדת תפקידים, ויעדכן את המדיניות בהתאם לשינויים בסביבת העבודה או בטכנולוגיות המשמשות את הארגון.
-- מדיניות הפרדת התפקידים תהיה חלק מתוכנית ניהול הסיכונים של הארגון.
+## Notes
+- The organization will conduct periodic assessments of segregation of duties processes and update the policy as necessary to accommodate changes in the work environment or technologies used by the organization.
+- The segregation of duties policy will be a part of the organization’s risk management program.
