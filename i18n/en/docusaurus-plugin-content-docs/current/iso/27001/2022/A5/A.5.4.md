@@ -1,50 +1,50 @@
 ---
-title: A.5.4 אחריות הנהלה
+title: A.5.4 Management Responsibilities
 sidebar_position: 4
 ---
 
-## מטרה
-מטרת הנוהל היא להבטיח שהנהלת הארגון תומכת, מכוונת ומנהלת את פעילויות אבטחת המידע באופן פעיל ויעיל, כדי להבטיח שמירה על סודיות, שלמות וזמינות של המידע הארגוני.
+## Purpose
+The purpose of this procedure is to ensure that the organization's management actively supports, directs, and manages information security activities efficiently to safeguard the confidentiality, integrity, and availability of organizational information.
 
-## תחום יישום
-הנוהל חל על כל רמות ההנהלה בארגון, לרבות הנהלה בכירה, הנהלת ביניים ומנהלי יחידות.
+## Scope
+This procedure applies to all management levels within the organization, including senior management, middle management, and unit managers.
 
-## הגדרות
-- **אחריות הנהלה:** המחויבות והפעולות של ההנהלה לקביעת מדיניות, תמיכה בפעולות אבטחת מידע, והבטחת עמידה בסטנדרטים ובתקנים של אבטחת מידע.
+## Definitions
+- **Management Responsibility:** The commitment and actions of management to establish policies, support information security activities, and ensure compliance with information security standards and regulations.
 
-## אחריות
-- **הנהלה בכירה:**
-  - אחראית על קביעת מדיניות אבטחת מידע והבטחת יישומה ברחבי הארגון.
-  - אחראית להקצות משאבים מתאימים (אנושיים, טכנולוגיים וכלכליים) ליישום וניהול אבטחת המידע.
-  - מבטיחה כי אבטחת מידע משולבת באסטרטגיה העסקית ובתהליכים המרכזיים של הארגון.
-  - מבטיחה כי מתקיימת תקשורת פתוחה ושקופה בנושא אבטחת מידע בתוך הארגון ועם צדדים חיצוניים לפי הצורך.
-  
-- **מנהלי ביניים ומנהלי יחידות:**
-  - אחראים ליישום המדיניות וההנחיות של אבטחת מידע ביחידותיהם.
-  - אחראים לספק הכשרה והדרכה לעובדים בתחום אבטחת המידע.
-  - מבצעים מעקב ובקרה על יישום נהלי אבטחת המידע באופן שוטף, ומדווחים להנהלה הבכירה על בעיות או חריגות.
+## Responsibility
+- **Senior Management:**
+  - Responsible for setting the information security policy and ensuring its implementation throughout the organization.
+  - Responsible for allocating appropriate resources (human, technological, and financial) for the implementation and management of information security.
+  - Ensures that information security is integrated into the organization's business strategy and core processes.
+  - Ensures open and transparent communication regarding information security within the organization and with external parties as necessary.
 
-## תהליך
-### 1. קביעת מדיניות אבטחת מידע
-- הנהלת הארגון תגדיר ותאשר מדיניות אבטחת מידע הכוללת את היעדים, העקרונות וההנחיות לניהול אבטחת המידע בארגון.
+- **Middle Management and Unit Managers:**
+  - Responsible for implementing the information security policy and guidelines within their units.
+  - Responsible for providing training and education to employees on information security.
+  - Conducts regular monitoring and control over the implementation of information security procedures and reports any issues or deviations to senior management.
 
-### 2. הקצאת משאבים
-- ההנהלה תוודא כי משאבים מספיקים מוקצים לניהול אבטחת המידע, כולל כוח אדם, טכנולוגיות, וכלים אחרים הנדרשים לשמירה על אבטחת המידע.
+## Process
+### 1. Establishing the Information Security Policy
+- The organization's management will define and approve an information security policy that outlines the goals, principles, and guidelines for managing information security within the organization.
 
-### 3. תמיכה ואכיפה
-- הנהלת הארגון תתמוך ביישום נהלי אבטחת המידע ותאכוף את המדיניות בקרב כל עובדי הארגון.  
-- ההנהלה תוודא כי כל עובד ומנהל בארגון מבין את חובותיו ואחריותו בנוגע לאבטחת המידע.
+### 2. Allocating Resources
+- Management will ensure that sufficient resources are allocated for managing information security, including personnel, technologies, and other tools necessary to maintain information security.
 
-### 4. מעקב ודיווח
-- ההנהלה תקיים פגישות תקופתיות לבחינת מצב אבטחת המידע בארגון, ותוודא כי קיימות בקרות המבטיחות עמידה בדרישות המדיניות.
-- דיווחים על מצב אבטחת המידע יובאו להנהלה הבכירה לקבלת החלטות ואישור צעדים מתקנים במקרה הצורך.
+### 3. Support and Enforcement
+- The organization’s management will support the implementation of information security procedures and enforce the policy across all employees.
+- Management will ensure that every employee and manager in the organization understands their duties and responsibilities regarding information security.
 
-### 5. בחינה ועדכון המדיניות
-- הנהלת הארגון תבחן את מדיניות אבטחת המידע ותעדכן אותה בהתאם לצרכים המשתנים של הארגון, לסיכונים חדשים, או לשינויים ברגולציה.
+### 4. Monitoring and Reporting
+- Management will hold periodic meetings to review the state of information security in the organization and ensure that controls are in place to meet policy requirements.
+- Information security reports will be submitted to senior management for decision-making and approval of corrective measures if needed.
 
-### 6. תקשורת
-- ההנהלה תוודא כי כל המידע הרלוונטי בנוגע לאבטחת מידע מופץ בצורה יעילה לכל הדרגים בארגון, כולל דיווח על אירועים, סיכונים והדרכות.
+### 5. Policy Review and Update
+- The organization’s management will review and update the information security policy as necessary to address the changing needs of the organization, emerging risks, or regulatory changes.
 
-## הערות
-- הארגון יקבע לוח זמנים לסקירות תקופתיות של המדיניות והאחריות ההנהלתית לאבטחת מידע, ויבצע התאמות בהתאם לצורך.
-- ההנהלה תתמוך בתרבות ארגונית המעודדת שמירה על אבטחת מידע ועמידה בסטנדרטים הגבוהים ביותר בתחום זה.
+### 6. Communication
+- Management will ensure that all relevant information regarding information security is effectively communicated to all levels of the organization, including reports on incidents, risks, and training.
+
+## Notes
+- The organization will establish a schedule for periodic reviews of the policy and management's responsibilities for information security, making adjustments as needed.
+- Management will foster a corporate culture that encourages adherence to information security standards and practices at the highest level.
