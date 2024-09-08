@@ -1,51 +1,51 @@
 ---
 sidebar_position: 2
-title: A.5.2 תפקידים ואחריות לאבטחת מידע
+title: A.5.2 Information Security Roles and Responsibilities
 ---
 
-## מטרה
-מטרת הנוהל היא להגדיר בבירור את התפקידים והאחריות הקשורים לאבטחת מידע בארגון, על מנת להבטיח כי כל עובד יודע את תפקידו ותורם לניהול סיכוני האבטחה בצורה יעילה.
+## Purpose
+The purpose of this procedure is to clearly define the roles and responsibilities related to information security within the organization, ensuring that every employee understands their role and contributes to effective security risk management.
 
-## תחום יישום
-הנוהל חל על כל עובדי הארגון, לרבות הנהלה, עובדים, קבלני משנה, וספקים חיצוניים העובדים עם מערכות המידע של הארגון.
+## Scope
+This procedure applies to all organizational employees, including management, staff, subcontractors, and external suppliers working with the organization's information systems.
 
-## הגדרות
-- **תפקיד אבטחת מידע:** תפקיד מוגדר בארגון הכולל אחריות ישירה או עקיפה לאבטחת מידע.
-- **אחריות לאבטחת מידע:** חובות וזכויות של עובד או מחזיק תפקיד בארגון בנוגע לשמירה על סודיות, שלמות וזמינות המידע.
+## Definitions
+- **Information Security Role:** A defined role within the organization that includes direct or indirect responsibility for information security.
+- **Information Security Responsibility:** The duties and rights of an employee or role holder in the organization regarding the confidentiality, integrity, and availability of information.
 
-## אחריות
-- **הנהלת הארגון:**
-  - אחראית על הקצאת משאבים ותמיכה בתפקידים הקשורים לאבטחת מידע.
-  - מגדירה את מדיניות האבטחה וקובעת את תחומי האחריות של כל תפקיד.
-  
-- **ממונה אבטחת מידע:**
-  - אחראי על פיתוח, ניהול והפצת מדיניות אבטחת המידע.
-  - מוודא כי כל בעלי התפקידים מכירים את תפקידם ואחריותם בנוגע לאבטחת מידע.
-  
-- **מנהלי יחידות:**
-  - אחראים על הטמעת נהלי אבטחת המידע ביחידותיהם ולוודא עמידה בהם.
-  - מוודאים כי כל עובד ביחידתם מודע לתפקידו ולאחריותו בנוגע לאבטחת מידע.
-  
-- **עובדי הארגון:**
-  - אחראים לפעול בהתאם לנהלי אבטחת המידע ולהגן על המידע שהם נחשפים אליו במסגרת תפקידם.
-  - חייבים לדווח על כל חשש או אירוע אבטחת מידע לממונה אבטחת המידע.
+## Responsibility
+- **Organization Management:**
+  - Responsible for allocating resources and supporting roles related to information security.
+  - Defines the security policy and determines the responsibilities of each role.
 
-## תהליך
-### 1. הגדרת תפקידים לאבטחת מידע
-- הנהלת הארגון, בשיתוף עם ממונה אבטחת המידע, תגדיר את התפקידים המרכזיים הקשורים לאבטחת מידע, כולל תחומי אחריות, סמכויות וזכויות.
+- **Information Security Officer:**
+  - Responsible for developing, managing, and distributing the information security policy.
+  - Ensures that all role holders are aware of their responsibilities and roles concerning information security.
 
-### 2. הקצאת תפקידים ואחריות
-- כל עובד בארגון יקבל תפקידים ואחריות מוגדרת בנוגע לאבטחת מידע, בהתאם לתפקידו בארגון ולתחום הפעילות שלו.
+- **Unit Managers:**
+  - Responsible for implementing information security procedures in their units and ensuring compliance.
+  - Ensure that every employee in their unit is aware of their role and responsibility regarding information security.
 
-### 3. הכשרה והדרכה
-- הארגון ידאג להדרכת עובדים ומנהלים לגבי תפקידיהם ואחריותם לאבטחת מידע, כולל עדכונים תקופתיים על נהלים חדשים ושינויים במדיניות האבטחה.
+- **Organizational Employees:**
+  - Responsible for acting in accordance with information security procedures and protecting the information they encounter in their role.
+  - Must report any concerns or security incidents to the Information Security Officer.
 
-### 4. בקרה ובקרה
-- ממונה אבטחת המידע יבצע בדיקות תקופתיות לוודא כי כל העובדים מכירים ומיישמים את תחומי האחריות שלהם בנוגע לאבטחת מידע.
+## Process
+### 1. Defining Information Security Roles
+- The organization's management, in coordination with the Information Security Officer, will define the key roles related to information security, including responsibilities, authorities, and rights.
 
-### 5. דיווח ודיווח חריגים
-- כל עובד בארגון מחויב לדווח לממונה אבטחת המידע על כל חשד להפרה של נהלי אבטחת מידע או על אי-בהירות בתפקידו או באחריותו.
+### 2. Allocating Roles and Responsibilities
+- Every employee in the organization will be assigned specific roles and responsibilities related to information security, based on their organizational role and area of operation.
 
-## הערות
-- הארגון יקיים סקרי ציות תקופתיים על מנת להבטיח כי כל בעלי התפקידים ממלאים את אחריותם לאבטחת מידע בצורה יעילה.
-- נהלי אבטחת המידע יהיו חלק מהסכם העבודה של כל עובד חדש בארגון ויובהרו לו במהלך ההדרכה הראשונית.
+### 3. Training and Education
+- The organization will provide training for employees and managers regarding their roles and responsibilities for information security, including regular updates on new procedures and changes to the security policy.
+
+### 4. Monitoring and Review
+- The Information Security Officer will conduct periodic checks to ensure that all employees are aware of and implementing their responsibilities related to information security.
+
+### 5. Reporting and Exceptions
+- Every employee is required to report to the Information Security Officer any suspected violation of security procedures or any uncertainty regarding their role or responsibility.
+
+## Notes
+- The organization will conduct periodic compliance surveys to ensure that all role holders are fulfilling their information security responsibilities effectively.
+- Information security procedures will be part of the employment agreement for all new hires and will be clarified during their initial training.
