@@ -4,7 +4,7 @@ title: פורטל המדיניות
 description: רשימת זכויות יוצרים לקוד פתוח המשומש בפורטל המדיניות
 ---
 
-| Package | Licenses | Repository | Publisher | URL | Path | License File |
+| חבילה | רשיון | מאגר | מפרסם | קישור | מיקום הקובץ | קישור לקובץ |
 |---------|----------|------------|-----------|-----|------|--------------|
 | @algolia/autocomplete-core@1.9.3 | MIT | [autocomplete](https://github.com/algolia/autocomplete) | Algolia, Inc. | [www.algolia.com](https://www.algolia.com) | @algolia/autocomplete-core | [README.md](https://github.com/algolia/autocomplete/blob/main/@algolia/autocomplete-core/README.md) |
 | @algolia/autocomplete-plugin-algolia-insights@1.9.3 | MIT | [autocomplete](https://github.com/algolia/autocomplete) | Algolia, Inc. | [www.algolia.com](https://www.algolia.com) | @algolia/autocomplete-plugin-algolia-insights | [README.md](https://github.com/algolia/autocomplete/blob/main/@algolia/autocomplete-plugin-algolia-insights/README.md) |
