@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: פורטל המדיניות
+description: רשימת זכויות יוצרים לקוד פתוח המשומש בפורטל המדיניות
 ---
 
 | Package | Licenses | Repository | Publisher | URL | Path | License File |
