@@ -110,9 +110,9 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'communitySidebar',
+          sidebarId: 'companySidebar',
           position: 'left',
-          html: '<i class="fas fa-users"></i> קהילה',
+          html: '<i class="fas fa-users"></i> חברה',
         },
         {
           href: 'https://ims-network.org/contact',
