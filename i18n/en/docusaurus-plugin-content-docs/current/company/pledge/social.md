@@ -1,22 +1,22 @@
 ---
 sidebar_position: 1
-title: השפעה חברתית
+title: Social Impact
 ---
 
-# ההתחייבות שלנו להשפעה חברתית
+# Our Social Impact Pledge
 
-באיי.אמ.אס אנחנו מאמינים בכוח הטרנספורמטיבי של הטכנולוגיה, לא רק כדי להוביל להצלחה עסקית, אלא גם כדי ליצור שינוי משמעותי וארוך טווח בחברה. כספקית תשתיות ענן מובילה וכחברה ישראלית גאה, אנו מחויבים לרתום את המומחיות והמשאבים שלנו לטובת הכלל.
+At IMS - Network, we believe in the transformative power of technology to not only drive business success but also to create meaningful, lasting change in society. As a leading provider of cloud infrastructure and a proudly Israeli company, we are committed to leveraging our expertise and resources for the greater good.
 
-## אנו מתחייבים ל:
+## We pledge to
 
-- **העצמת הדור הבא**: השורשים שלנו בקהילת הגיימינג הישראלית לימדו אותנו את החשיבות של טיפוח כישרונות צעירים. דרך איגוד הגיימינג הישראלי, אנו מחויבים לספק לנוער הזדמנויות לפתח את כישוריהם, לצמוח כאינדיבידואלים ולהיות חלק מהעתיד של טכנולוגיה וחדשנות.
+- **Empower the Next Generation**: Our roots in the Israeli gaming community have taught us the importance of nurturing young talent. Through the Israeli Gaming Association, we are committed to providing opportunities for youth to develop their skills, grow as individuals, and contribute to the future of technology and innovation.
 
-- **קידום חדשנות וחינוך**: נמשיך לתמוך ביוזמות המעודדות חדשנות ומקדמות חינוך, כדי להבטיח שלעסקים קטנים, מפתחים וקהילות תהיה גישה לכלים ולידע הדרושים כדי לשגשג בעולם הדיגיטלי של היום.
+- **Foster Innovation and Education**: We will continue to support initiatives that inspire innovation and promote education, ensuring that small businesses, developers, and communities have access to the tools and knowledge they need to thrive in an increasingly digital world.
 
-- **תמיכה בנוכחות הגלובלית של ישראל**: בזמני משבר,איי.אמ.אס פועלת כסנגור חזק למען ישראל בזירה הבינלאומית. אנו משקיעים במאמצי הסברה כדי לייצג את ערכיה והישגיה של ישראל, ונשארים מחויבים לתמיכה בצמיחתה ובביטחונה של מולדתנו.
+- **Support Israel’s Global Presence**: In times of need, IMS - Network stands as a strong advocate for Israel on the international stage. We invest in advocacy efforts to represent Israel’s values and achievements, and we remain dedicated to supporting our homeland’s growth and security.
 
-- **תרומה לנוף דיגיטלי בטוח ומאובטח יותר**: פתרונות הענן המתקדמים שלנו מעוצבים עם דגש על אבטחה ופרטיות. אנו מחויבים לספק סביבה טכנולוגית יציבה ובטוחה, שמאפשרת לעסקים להתמקד בחדשנות, מתוך ידיעה שהם נתמכים על תשתית אמינה ומאובטחת.
+- **Contribute to a Safer and More Secure Digital Landscape**: Our advanced cloud solutions are designed with security and privacy at the forefront. We are committed to providing a stable and secure technological environment that allows businesses to focus on innovation, knowing they are backed by trusted infrastructure.
 
-- **קידום אחריות חברתית בטכנולוגיה**: אנו מכירים באחריות שלנו לא רק כלפי הלקוחות שלנו, אלא גם כלפי הקהילה הרחבה יותר. המטרה שלנו היא להשתמש בטכנולוגיה כגשר בין חדשנות להתקדמות חברתית, ולוודא שההתקדמות שלנו תורמת לעולם טוב ומחובר יותר.
+- **Promote Social Responsibility in Technology**: We recognize our responsibility not only to our customers but also to the broader community. Our goal is to use technology as a bridge between innovation and societal progress, ensuring that our advancements contribute to a better, more connected world.
 
-באיי.אמ.אס, ההשפעה החברתית היא יותר ממשימה – היא חלק בלתי נפרד מכל מה שאנו עושים. אנו מחויבים לבנות עתיד בהיר וחדשני יותר, תוך יצירת השפעה חיובית על חייהם של אנשים, עסקים וקהילות ברחבי העולם.
+At IMS - Network, social impact is more than a mission—it is embedded in everything we do. We are committed to building a brighter, more innovative future while making a positive difference in the lives of individuals, businesses, and communities around the globe.

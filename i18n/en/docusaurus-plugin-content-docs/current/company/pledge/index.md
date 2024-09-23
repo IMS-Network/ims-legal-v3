@@ -1,5 +1,5 @@
 ---
 sidebar_position: 8
-title: התחייבות שלנו
+title: Our Pledges
 ---
 
